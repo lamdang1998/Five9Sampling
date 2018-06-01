@@ -55,8 +55,27 @@ def StratSampling(filename, targetAttr, no_sample):
 		else:
 			sample = sample + SRS(v, no_sample)
 	return sample
-print(StratSampling("iris.csv", "class", 10))
-# data, label = load_data("iris.csv")
-# print(SRS(data, 5))
-# tarIn = getTargetIndex('class', label)
-# print(getTargetValue(data,tarIn)) 
+
+#Cluster Sampling
+def ClusterSampling(filename, targetAttr, no_sample_set):
+	data_dict = dictPopulation(filename, targetAttr)
+	set_feature = []
+	selected = []
+	sample = []
+	for item in data_dict.keys():
+		set_feature.append(item)
+	if no_sample_set >= len(set_feature):
+		for k,  v in data_dict.items():
+			sample = sample + v
+	else:
+		for i in range (no_sample_set):
+			selected.append(random.choice(set_feature))
+		for k,v in data_dict.items():
+			if k in selected:
+				sample = sample + v
+	return sample
+
+data1 = ClusterSampling("monks1.csv", "jacket_color", 2 )
+with open("output.csv", "w", newline="") as f:
+	writer = csv.writer(f)
+	writer.writerows(data1)
