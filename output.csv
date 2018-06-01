@@ -1,216 +1,301 @@
-yes,round,round,yes,sword,red,yes
-yes,round,round,yes,sword,red,no
-yes,round,round,yes,balloon,red,yes
-yes,round,round,yes,balloon,red,no
-yes,round,round,yes,flag,red,yes
-yes,round,round,yes,flag,red,no
-yes,round,round,no,sword,red,yes
-yes,round,round,no,sword,red,no
-yes,round,round,no,balloon,red,yes
-yes,round,round,no,balloon,red,no
-yes,round,round,no,flag,red,yes
-yes,round,round,no,flag,red,no
-yes,round,square,yes,sword,red,yes
-yes,round,square,yes,sword,red,no
-yes,round,square,yes,balloon,red,yes
-yes,round,square,yes,balloon,red,no
-yes,round,square,yes,flag,red,yes
-yes,round,square,yes,flag,red,no
-yes,round,square,no,sword,red,yes
-yes,round,square,no,sword,red,no
-yes,round,square,no,balloon,red,yes
-yes,round,square,no,balloon,red,no
-yes,round,square,no,flag,red,yes
-yes,round,square,no,flag,red,no
-yes,round,octagon,yes,sword,red,yes
-yes,round,octagon,yes,sword,red,no
-yes,round,octagon,yes,balloon,red,yes
-yes,round,octagon,yes,balloon,red,no
-yes,round,octagon,yes,flag,red,yes
-yes,round,octagon,yes,flag,red,no
-yes,round,octagon,no,sword,red,yes
-yes,round,octagon,no,sword,red,no
-yes,round,octagon,no,balloon,red,yes
-yes,round,octagon,no,balloon,red,no
-yes,round,octagon,no,flag,red,yes
-yes,round,octagon,no,flag,red,no
-yes,square,round,yes,sword,red,yes
-yes,square,round,yes,sword,red,no
-yes,square,round,yes,balloon,red,yes
-yes,square,round,yes,balloon,red,no
-yes,square,round,yes,flag,red,yes
-yes,square,round,yes,flag,red,no
-yes,square,round,no,sword,red,yes
-yes,square,round,no,sword,red,no
-yes,square,round,no,balloon,red,yes
-yes,square,round,no,balloon,red,no
-yes,square,round,no,flag,red,yes
-yes,square,round,no,flag,red,no
-yes,square,square,yes,sword,red,yes
-yes,square,square,yes,sword,red,no
-yes,square,square,yes,balloon,red,yes
-yes,square,square,yes,balloon,red,no
-yes,square,square,yes,flag,red,yes
-yes,square,square,yes,flag,red,no
-yes,square,square,no,sword,red,yes
-yes,square,square,no,sword,red,no
-yes,square,square,no,balloon,red,yes
-yes,square,square,no,balloon,red,no
-yes,square,square,no,flag,red,yes
-yes,square,square,no,flag,red,no
-yes,square,octagon,yes,sword,red,yes
-yes,square,octagon,yes,sword,red,no
-yes,square,octagon,yes,balloon,red,yes
-yes,square,octagon,yes,balloon,red,no
-yes,square,octagon,yes,flag,red,yes
-yes,square,octagon,yes,flag,red,no
-yes,square,octagon,no,sword,red,yes
-yes,square,octagon,no,sword,red,no
-yes,square,octagon,no,balloon,red,yes
-yes,square,octagon,no,balloon,red,no
-yes,square,octagon,no,flag,red,yes
-yes,square,octagon,no,flag,red,no
-yes,octagon,round,yes,sword,red,yes
-yes,octagon,round,yes,sword,red,no
-yes,octagon,round,yes,balloon,red,yes
-yes,octagon,round,yes,balloon,red,no
-yes,octagon,round,yes,flag,red,yes
-yes,octagon,round,yes,flag,red,no
-yes,octagon,round,no,sword,red,yes
-yes,octagon,round,no,sword,red,no
-yes,octagon,round,no,balloon,red,yes
-yes,octagon,round,no,balloon,red,no
-yes,octagon,round,no,flag,red,yes
-yes,octagon,round,no,flag,red,no
-yes,octagon,square,yes,sword,red,yes
-yes,octagon,square,yes,sword,red,no
-yes,octagon,square,yes,balloon,red,yes
-yes,octagon,square,yes,balloon,red,no
-yes,octagon,square,yes,flag,red,yes
-yes,octagon,square,yes,flag,red,no
-yes,octagon,square,no,sword,red,yes
-yes,octagon,square,no,sword,red,no
-yes,octagon,square,no,balloon,red,yes
-yes,octagon,square,no,balloon,red,no
-yes,octagon,square,no,flag,red,yes
-yes,octagon,square,no,flag,red,no
-yes,octagon,octagon,yes,sword,red,yes
-yes,octagon,octagon,yes,sword,red,no
-yes,octagon,octagon,yes,balloon,red,yes
-yes,octagon,octagon,yes,balloon,red,no
-yes,octagon,octagon,yes,flag,red,yes
-yes,octagon,octagon,yes,flag,red,no
-yes,octagon,octagon,no,sword,red,yes
-yes,octagon,octagon,no,sword,red,no
-yes,octagon,octagon,no,balloon,red,yes
-yes,octagon,octagon,no,balloon,red,no
-yes,octagon,octagon,no,flag,red,yes
-yes,octagon,octagon,no,flag,red,no
-yes,round,round,yes,sword,blue,yes
-yes,round,round,yes,sword,blue,no
-yes,round,round,yes,balloon,blue,yes
-yes,round,round,yes,balloon,blue,no
-yes,round,round,yes,flag,blue,yes
-yes,round,round,yes,flag,blue,no
-yes,round,round,no,sword,blue,yes
-yes,round,round,no,sword,blue,no
-yes,round,round,no,balloon,blue,yes
-yes,round,round,no,balloon,blue,no
-yes,round,round,no,flag,blue,yes
-yes,round,round,no,flag,blue,no
-no,round,square,yes,sword,blue,yes
-no,round,square,yes,sword,blue,no
-no,round,square,yes,balloon,blue,yes
-no,round,square,yes,balloon,blue,no
-no,round,square,yes,flag,blue,yes
-no,round,square,yes,flag,blue,no
-no,round,square,no,sword,blue,yes
-no,round,square,no,sword,blue,no
-no,round,square,no,balloon,blue,yes
-no,round,square,no,balloon,blue,no
-no,round,square,no,flag,blue,yes
-no,round,square,no,flag,blue,no
-no,round,octagon,yes,sword,blue,yes
-no,round,octagon,yes,sword,blue,no
-no,round,octagon,yes,balloon,blue,yes
-no,round,octagon,yes,balloon,blue,no
-no,round,octagon,yes,flag,blue,yes
-no,round,octagon,yes,flag,blue,no
-no,round,octagon,no,sword,blue,yes
-no,round,octagon,no,sword,blue,no
-no,round,octagon,no,balloon,blue,yes
-no,round,octagon,no,balloon,blue,no
-no,round,octagon,no,flag,blue,yes
-no,round,octagon,no,flag,blue,no
-no,square,round,yes,sword,blue,yes
-no,square,round,yes,sword,blue,no
-no,square,round,yes,balloon,blue,yes
-no,square,round,yes,balloon,blue,no
-no,square,round,yes,flag,blue,yes
-no,square,round,yes,flag,blue,no
-no,square,round,no,sword,blue,yes
-no,square,round,no,sword,blue,no
-no,square,round,no,balloon,blue,yes
-no,square,round,no,balloon,blue,no
-no,square,round,no,flag,blue,yes
-no,square,round,no,flag,blue,no
-yes,square,square,yes,sword,blue,yes
-yes,square,square,yes,sword,blue,no
-yes,square,square,yes,balloon,blue,yes
-yes,square,square,yes,balloon,blue,no
-yes,square,square,yes,flag,blue,yes
-yes,square,square,yes,flag,blue,no
-yes,square,square,no,sword,blue,yes
-yes,square,square,no,sword,blue,no
-yes,square,square,no,balloon,blue,yes
-yes,square,square,no,balloon,blue,no
-yes,square,square,no,flag,blue,yes
-yes,square,square,no,flag,blue,no
-no,square,octagon,yes,sword,blue,yes
-no,square,octagon,yes,sword,blue,no
-no,square,octagon,yes,balloon,blue,yes
-no,square,octagon,yes,balloon,blue,no
-no,square,octagon,yes,flag,blue,yes
-no,square,octagon,yes,flag,blue,no
-no,square,octagon,no,sword,blue,yes
-no,square,octagon,no,sword,blue,no
-no,square,octagon,no,balloon,blue,yes
-no,square,octagon,no,balloon,blue,no
-no,square,octagon,no,flag,blue,yes
-no,square,octagon,no,flag,blue,no
-no,octagon,round,yes,sword,blue,yes
-no,octagon,round,yes,sword,blue,no
-no,octagon,round,yes,balloon,blue,yes
-no,octagon,round,yes,balloon,blue,no
-no,octagon,round,yes,flag,blue,yes
-no,octagon,round,yes,flag,blue,no
-no,octagon,round,no,sword,blue,yes
-no,octagon,round,no,sword,blue,no
-no,octagon,round,no,balloon,blue,yes
-no,octagon,round,no,balloon,blue,no
-no,octagon,round,no,flag,blue,yes
-no,octagon,round,no,flag,blue,no
-no,octagon,square,yes,sword,blue,yes
-no,octagon,square,yes,sword,blue,no
-no,octagon,square,yes,balloon,blue,yes
-no,octagon,square,yes,balloon,blue,no
-no,octagon,square,yes,flag,blue,yes
-no,octagon,square,yes,flag,blue,no
-no,octagon,square,no,sword,blue,yes
-no,octagon,square,no,sword,blue,no
-no,octagon,square,no,balloon,blue,yes
-no,octagon,square,no,balloon,blue,no
-no,octagon,square,no,flag,blue,yes
-no,octagon,square,no,flag,blue,no
-yes,octagon,octagon,yes,sword,blue,yes
-yes,octagon,octagon,yes,sword,blue,no
-yes,octagon,octagon,yes,balloon,blue,yes
-yes,octagon,octagon,yes,balloon,blue,no
-yes,octagon,octagon,yes,flag,blue,yes
-yes,octagon,octagon,yes,flag,blue,no
-yes,octagon,octagon,no,sword,blue,yes
-yes,octagon,octagon,no,sword,blue,no
-yes,octagon,octagon,no,balloon,blue,yes
-yes,octagon,octagon,no,balloon,blue,no
-yes,octagon,octagon,no,flag,blue,yes
-yes,octagon,octagon,no,flag,blue,no
+480344,2/12/2013,Utah,Midvale,8286 Adams Street and 450 West Street,4,1,http://www.gunviolencearchive.org/incident/480344,,FALSE,4,,,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)||Drug involvement",,,,,,
+95266,1/1/2014,Utah,Hurricane,2500 S. 3900 W.,0,1,http://www.gunviolencearchive.org/incident/95266,http://www.stgeorgeutah.com/news/archive/2014/01/01/elh-accidental-shooting-sends-hurricane-man-hospital/,FALSE,2,,,Shot - Wounded/Injured||Accidental Shooting||Accidental Shooting - Injury||Cleaning gun,,,,,,
+92664,1/2/2014,Utah,Salt Lake City,1407 W. Indiana,0,0,http://www.gunviolencearchive.org/incident/92664,http://www.ksl.com/index.php,FALSE,2,,,Shots Fired - No Injuries,,,,,,
+96076,1/6/2014,Utah,Saint George,745 S. Bluff St.,0,0,http://www.gunviolencearchive.org/incident/96076,http://www.thespectrum.com/article/20140107/NEWS01/301070012/1002/rss,FALSE,2,,,Possession (gun(s) found during commission of other crimes),,,,,,
+107343,1/9/2014,Utah,Cedar City,2560 Aviation Way,0,0,http://www.gunviolencearchive.org/incident/107343,http://blog.tsa.gov/2014_01_10_archive.html,FALSE,2,,,TSA Action,,,,,,
+96706,1/14/2014,Utah,Syracuse,2133 W. 1175 South,3,0,http://www.gunviolencearchive.org/incident/96706,http://www.ksl.com/,FALSE,1,,,"Shot - Dead (murder, accidental, suicide)||Suicide^||Murder/Suicide||Domestic Violence",,,,,,
+217345,1/15/2014,Utah,Salt Lake City,776 N Terminal Dr,0,0,http://www.gunviolencearchive.org/incident/217345,http://blog.tsa.gov/2014/01/tsa-week-in-review-42-firearms.html,FALSE,2,,,TSA Action,,,,,,
+97365,1/16/2014,Utah,Spanish Fork,37 N. 630 West,5,0,http://www.gunviolencearchive.org/incident/97365,http://www.deseretnews.com/article/865594341/5-found-dead-in-Spanish-Fork-home-suspected-murder-suicide.html,FALSE,3,0::Unknown,0::Unknown,"Shot - Dead (murder, accidental, suicide)||Suicide^||Murder/Suicide||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)",,,,,,
+217846,1/21/2014,Utah,Salt Lake City,776 N Terminal Dr,0,0,http://www.gunviolencearchive.org/incident/217846,http://blog.tsa.gov/2014/01/tsa-week-in-review-23-firearms.html,FALSE,2,,,TSA Action,,,,,,
+100342,1/23/2014,Utah,Salt Lake City,235 W. 400 South ,0,0,http://www.gunviolencearchive.org/incident/100342,http://www.sltrib.com/sltrib/news/57443600-78/ceiling-pawn-shop-lake.html.csp,FALSE,2,,,Shots Fired - No Injuries||Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+114729,1/28/2014,Utah,Ogden, 2300 South block of Madison Avenue ,0,1,http://www.gunviolencearchive.org/incident/114729,http://www.sltrib.com/sltrib/news/57467930-78/amp-ogden-conley-2300.html.csp,FALSE,1,,,Shot - Wounded/Injured||Gang involvement,,,,,,
+101907,1/29/2014,Utah,West Valley City,1725 W. 3200 South,0,0,http://www.gunviolencearchive.org/incident/101907,http://www.sltrib.com/sltrib/news/57468360-78/police-evans-gunpoint-held.html.csp,FALSE,2,,,Home Invasion||Home Invasion - No death or injury,,,,,,
+102172,1/30/2014,Utah,Santaquin,Main and Center Streets,2,1,http://www.gunviolencearchive.org/incident/102172,http://www.heraldextra.com/news/local/crime-and-courts/deputy-shot-in-the-head-testifies-in-trial-of-teen/article_e44689be-ec53-5c94-9e49-bd0d1f2f1e9b.html,FALSE,4,0::Unknown,0::Unknown,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Officer Involved Incident||Officer Involved Shooting - Officer shot||Officer Involved Shooting - Officer killed||Officer Involved Shooting - subject/suspect/perpetrator killed||Spree Shooting (multiple victims, multiple locations)||Drug involvement||Car-jacking||Brandishing/flourishing/open carry/lost/found",,,,,,
+102178,1/30/2014,Utah,Sandy,9032 S. Waters Circle (1515 East) ,1,0,http://www.gunviolencearchive.org/incident/102178,http://www.sltrib.com/sltrib/news/57472385-78/police-arnold-meik-sandy.html.csp,FALSE,3,,,"Shot - Dead (murder, accidental, suicide)",,,,,,
+124321,2/8/2014,Utah,Logan,527 S. Main St,0,0,http://www.gunviolencearchive.org/incident/124321,http://www.sltrib.com/sltrib/news/57798507-78/guns-information-pawn-logan.html.csp,FALSE,1,,,Gun(s) stolen from owner,,,,,,
+105505,2/9/2014,Utah,South Salt Lake,,0,0,http://www.gunviolencearchive.org/incident/105505,http://kutv.com/news/top-stories/stories/police-searching-man-carjacking-incident-9582.shtml,FALSE,4,,,Car-jacking,,,,,,
+105801,2/10/2014,Utah,Spanish Fork,,1,0,http://www.gunviolencearchive.org/incident/105801,http://www.ksl.com/,FALSE,3,,,Accidental Shooting||Accidental Shooting - Death,,,,,,
+106573,2/12/2014,Utah,Saint George, 391 W. St. George Boulevard,0,0,http://www.gunviolencearchive.org/incident/106573,http://www.ksl.com/,FALSE,2,,,Shots Fired - No Injuries||Drug involvement,,,,,,
+112592,2/17/2014,Utah,Whiterocks,,0,0,http://www.gunviolencearchive.org/incident/112592,http://www.deseretnews.com/article/865598071/FBI-investigating-shooting-of-Fort-Duchesne-man.html,FALSE,1,0::Unknown,0::Unknown,"Shots Fired - No Injuries||Shots fired, no action (reported, no evidence found)",,,,,,
+112591,2/17/2014,Utah,Whiterocks,,0,1,http://www.gunviolencearchive.org/incident/112591,http://www.deseretnews.com/article/865598071/FBI-investigating-shooting-of-Fort-Duchesne-man.html,FALSE,1,0::Unknown,0::Unknown,Shot - Wounded/Injured,,,,,,
+109181,2/21/2014,Utah,Salt Lake City,703 E. 600 South,0,0,http://www.gunviolencearchive.org/incident/109181,http://www.deseretnews.com/article/865597073/3-well-dressed-men-rob-Salt-Lake-jewelry-store.html,FALSE,2,,,Shots Fired - No Injuries||Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+109869,2/24/2014,Utah,Millcreek,East and Empire ,0,0,http://www.gunviolencearchive.org/incident/109869,http://www.sltrib.com/sltrib/news/57593575-78/amp-700-lake-salt.html.csp,FALSE,4,,,"Shots Fired - No Injuries||Shots fired, no action (reported, no evidence found)",,,,,,
+110672,2/27/2014,Utah,Sandy,104th South State Street,0,0,http://www.gunviolencearchive.org/incident/110672,http://www.4utah.com/story/d/story/a-gun-is-accidentally-discharged-inside-a-chipotle/30355/0tM7kdUYw0KKyD0_O563rA,FALSE,4,,,Shots Fired - No Injuries,,,,,,
+120144,2/27/2014,Utah,Fruit Heights,400 South,0,0,http://www.gunviolencearchive.org/incident/120144,http://www.deseretnews.com/article/865598094/Kids-find-handgun-in-Fruit-Heights-field.html,FALSE,1,,,"Shots Fired - No Injuries||Child Involved Incident||Child picked up & fired gun||Shots fired, no action (reported, no evidence found)",,,,,,
+112589,3/4/2014,Utah,Fort Duchesne,,0,1,http://www.gunviolencearchive.org/incident/112589,http://www.deseretnews.com/article/865598071/FBI-investigating-shooting-of-Fort-Duchesne-man.html,FALSE,1,0:Unknown,0:Unknown,Shot - Wounded/Injured,,,,,,
+112493,3/6/2014,Utah,West Valley City,1791 W Parkway Boulevard ,0,0,http://www.gunviolencearchive.org/incident/112493,http://www.sltrib.com/sltrib/news/57641526-78/valley-west-apartment-felony.html.csp,FALSE,4,,,Officer Involved Incident,,,,,,
+117554,3/10/2014,Utah,Salt Lake City,Salt Lake City International Airport,0,0,http://www.gunviolencearchive.org/incident/117554,http://blog.tsa.gov/2014_03_14_archive.html,FALSE,2,,,TSA Action,,,,,,
+119086,3/11/2014,Utah,Salt Lake City (Millcreek),1075 E. 3740 South,0,0,http://www.gunviolencearchive.org/incident/119086,http://www.deseretnews.com/article/865598457/Man-arrested-after-gunfire-triggers-school-lockdown.html,FALSE,4,,,Shots Fired - No Injuries,,,,,,
+119084,3/12/2014,Utah,Riverdale,,0,0,http://www.gunviolencearchive.org/incident/119084,http://www.deseretnews.com/article/865598499/Fugitive-arrested-following-chase-shots-fired-in-Ogden.html,FALSE,1,,,Shots Fired - No Injuries|Officer Involved Incident|Brandishing/flourishing/open carry/lost/found,,,,,,
+115528,3/16/2014,Utah,Salt Lake City,,0,0,http://www.gunviolencearchive.org/incident/115528,http://kutv.com/news/top-stories/stories/police-nab-suspect-downtown-carjacking-incident-10134.shtml,FALSE,2,,,Car-jacking,,,,,,
+116467,3/17/2014,Utah,Pinebrook,,0,0,http://www.gunviolencearchive.org/incident/116467,http://www.sltrib.com/sltrib/news/57701409-78/county-dog-summit-animal.html.csp,FALSE,1,,,Animal shot/killed,,,,,,
+116299,3/18/2014,Utah,Richfield,Main Street near 500 South ,0,1,http://www.gunviolencearchive.org/incident/116299,http://www.sltrib.com/sltrib/news/57702306-78/girl-police-richfield-incident.html.csp,FALSE,2,,,Shot - Wounded/Injured|Accidental Shooting|Accidental Shooting - Death|Accidental Shooting - Injury|Child Involved Incident|Child picked up & fired gun,,,,,,
+188877,3/18/2014,Utah,Richfield,Main Street,0,1,http://www.gunviolencearchive.org/incident/188877,http://www.richfieldreaper.com/news/local/article_efef36c0-386f-11e4-a140-001a4bcf887a.html,FALSE,2,,,Shot - Wounded/Injured|Accidental Shooting|Accidental Shooting - Injury|Accidental/Negligent Discharge|Child Involved Incident|Child picked up & fired gun,,,,,,
+116507,3/19/2014,Utah,Toquerville,,1,0,http://www.gunviolencearchive.org/incident/116507,http://www.sltrib.com/news/3419825-155/utah-teenager-pleads-guilty-to-murdering,FALSE,,0:Unknown,0:Unknown,"Shot - Dead (murder, accidental, suicide)|Home Invasion|Home Invasion - Resident killed|Armed robbery with injury/death and/or evidence of DGU found|Under the influence of alcohol or drugs (only applies to the subject/suspect/perpetrator )|Gun(s) stolen from owner",,,,,,
+480401,2/22/2013,Michigan,Grand Rapids,1447 Grandville Ave. SW,0,4,http://www.gunviolencearchive.org/incident/480401,http://www.mlive.com/news/grand-rapids/index.ssf/2013/03/whos_to_blame_for_new_roosevel.html,FALSE,3,,,"Shot - Wounded/Injured||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)||Bar/club incident - in or around establishment",,,,,,
+481208,3/3/2013,Michigan,Saginaw (county),4030 Dixie Hwy,0,4,http://www.gunviolencearchive.org/incident/481208,http://www.mlive.com/news/saginaw/index.ssf/2013/03/police_gang-related_shootout_a.html,FALSE,5,,,"Shot - Wounded/Injured||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)||Bar/club incident - in or around establishment||Gang involvement",,,,,,
+486327,5/15/2013,Michigan,Detroit,9000 block of Carlin,1,4,http://www.gunviolencearchive.org/incident/486327,http://detroit.cbslocal.com/2013/05/16/4-shot-1-killed-during-argument-in-detroit/,FALSE,13,,,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)",,,,,,
+486605,5/19/2013,Michigan,Detroit,,0,4,http://www.gunviolencearchive.org/incident/486605,http://detroit.cbslocal.com/tag/drive-by-shooting/feed/,FALSE,13,0::Unknown,0::Unknown,"Shot - Wounded/Injured||Drive-by (car to street, car to car)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)",,,,,,
+486977,5/25/2013,Michigan,Flint,1100 block of Paterson,1,3,http://www.gunviolencearchive.org/incident/486977,http://www.mlive.com/news/flint/index.ssf/2015/03/flint_man_not_guilty_of_murder.html,FALSE,5,0::Unknown,0::Unknown,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)||Possession of gun by felon or prohibited person||Stolen/Illegally owned gun{s} recovered during arrest/warrant",,,,,,
+490351,7/4/2013,Michigan,Pontiac,441 N Perry St,1,6,http://www.gunviolencearchive.org/incident/490351,http://www.theoaklandpress.com/article/OP/20130821/NEWS/308219897,FALSE,14,,,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)||Possession of gun by felon or prohibited person",,,,,,
+491037,7/14/2013,Michigan,Grand Rapids (Kentwood),Farmview Ct SE,0,5,http://www.gunviolencearchive.org/incident/491037,,FALSE,2,0::Unknown,0::Unknown,"Shot - Wounded/Injured||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)||Gang involvement||Possession of gun by felon or prohibited person",,,,,,
+491243,7/25/2013,Michigan,Inkster,Oakwood Street,0,4,http://www.gunviolencearchive.org/incident/491243,http://detroit.cbslocal.com/2013/07/26/4-injured-in-apparent-drive-by-shooting-in-inkster/http://detroit.cbslocal.com/2013/07/26/4-injured-in-apparent-drive-by-shooting-in-inkster/,FALSE,13,,,"Shot - Wounded/Injured||Drive-by (car to street, car to car)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)",,,,,,
+491461,8/3/2013,Michigan,Detroit,Murray Hill St,0,5,http://www.gunviolencearchive.org/incident/491461,http://www.clickondetroit.com/news/local/detroit/5-shot-including-2-children-outside-detroit-home,FALSE,13,,,"Shot - Wounded/Injured||Drive-by (car to street, car to car)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)",,,,,,
+480415,9/17/2013,Michigan,Lansing,1500 block of Ottawa Street,0,4,http://www.gunviolencearchive.org/incident/480415,http://www.lansingstatejournal.com/story/news/local/2014/08/12/lansing-teen-charged-in-13-shooting-near-sexton-high-school/13963509/,FALSE,8,,,"Shot - Wounded/Injured||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)",,,,,,
+480669,9/22/2013,Michigan,Muskegon,149 Ottawa Ave,2,4,http://www.gunviolencearchive.org/incident/480669,http://www.mlive.com/news/muskegon/index.ssf/2013/10/prosecutor_car_not_bullet_kill.html,FALSE,2,0::Unknown,0::Unknown,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)||Bar/club incident - in or around establishment",,,,,,
+493035,11/7/2013,Michigan,Detroit,Conley and 7 Mile,3,7,http://www.gunviolencearchive.org/incident/493035,http://www.usatoday.com/story/news/nation/2013/11/07/detroit-barber-shop-shooting/3463983/,FALSE,14,,,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)",,,,,,
+495323,11/30/2013,Michigan,Lansing,,0,5,http://www.gunviolencearchive.org/incident/495323,http://www.wilx.com/home/headlines/Police-5-Shot-during-fight-at-Lansing-house-party-233939131.html,FALSE,8,,,"Shot - Wounded/Injured||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)",,,,,,
+495566,12/22/2013,Michigan,Muskegon,2300 block of W McMillan Rd,1,3,http://www.gunviolencearchive.org/incident/495566,http://www.mlive.com/news/muskegon/index.ssf/2013/12/armed_and_dangerous_deontay_de.html,FALSE,2,0::Unknown,0::Unknown,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)",,,,,,
+95289,1/1/2014,Michigan,Muskegon,300 block of Monroe Avenue ,0,0,http://www.gunviolencearchive.org/incident/95289,http://www.mlive.com/news/muskegon/index.ssf/2014/01/police_celebratory_gunfire_in.html,FALSE,2,,,Shots Fired - No Injuries,,,,,,
+92607,1/1/2014,Michigan,Detroit,10500 block Wayburn ,0,1,http://www.gunviolencearchive.org/incident/92607,http://www.detroitnews.com/article/20140103/METRO01/301030073/1409/METRO/Detroit-starts-off-new-year-eight-killings-20-shootings,FALSE,14,,,Shot - Wounded/Injured,,,,,,
+92602,1/1/2014,Michigan,Detroit,12000 block of St. Patrick ,2,2,http://www.gunviolencearchive.org/incident/92602,http://www.detroitnews.com/article/20140103/METRO01/301030073/1409/METRO/Detroit-starts-off-new-year-eight-killings-20-shootings,FALSE,13,,,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Domestic Violence",,,,,,
+92620,1/1/2014,Michigan,Detroit,Melrose,0,2,http://www.gunviolencearchive.org/incident/92620,http://detroit.cbslocal.com/2014/01/02/19-year-old-man-arrested-in-new-years-party-double-shooting/,FALSE,13,,,Shot - Wounded/Injured||Brandishing/flourishing/open carry/lost/found,,,,,,
+92612,1/1/2014,Michigan,Detroit,11600 block of Robson,0,1,http://www.gunviolencearchive.org/incident/92612,http://www.detroitnews.com/article/20140103/METRO01/301030073/1409/METRO/Detroit-starts-off-new-year-eight-killings-20-shootings,FALSE,13,,,Shot - Wounded/Injured,,,,,,
+182940,1/1/2014,Michigan,Detroit (Redford Charter Township),Pickford and Beech Daly,1,2,http://www.gunviolencearchive.org/incident/182940,http://www.clickondetroit.com/news/carjacking-suspect-killed-while-running-from-police/23725548,FALSE,13,0::Unknown,0::Unknown,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Officer Involved Incident||Officer Involved Shooting - subject/suspect/perpetrator killed||Car-jacking",,,,,,
+92875,1/2/2014,Michigan,Davison,628 N State Rd,0,0,http://www.gunviolencearchive.org/incident/92875,http://www.mlive.com/news/flint/index.ssf/2014/01/flint_man_arrested_after_alleg_2.html#incart_river_default,FALSE,5,,,Armed robbery with injury/death and/or evidence of DGU found||Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found,,,,,,
+92605,1/2/2014,Michigan,Detroit,McNichols and Dresden,0,1,http://www.gunviolencearchive.org/incident/92605,http://www.detroitnews.com/article/20140103/METRO01/301030073/1409/METRO/Detroit-starts-off-new-year-eight-killings-20-shootings,FALSE,14,,,Shot - Wounded/Injured,,,,,,
+92261,1/2/2014,Michigan,Saginaw,4100 block of Casey Drive,0,1,http://www.gunviolencearchive.org/incident/92261,http://www.abc12.com/story/24348259/spaulding-township-shooting-injures-1,FALSE,5,,,Shot - Wounded/Injured,,,,,,
+95293,1/2/2014,Michigan,Richland,,0,1,http://www.gunviolencearchive.org/incident/95293,http://wwmt.com/shared/news/features/top-stories/stories/wwmt_richland-boy-shoots-himself-hunting-17075.shtml,FALSE,6,,,Shot - Wounded/Injured||Accidental Shooting||Hunting accident||Child Involved Incident||Child injured self,,,,,,
+92259,1/2/2014,Michigan,Detroit,15000 Pilgrim,0,1,http://www.gunviolencearchive.org/incident/92259,http://www.detroitnews.com/article/20140102/METRO01/301020118/3-young-girls-left-alone-Detroit-home-gun,FALSE,14,,,Shot - Wounded/Injured,,,,,,
+92445,1/3/2014,Michigan,Detroit,17300 block of Lenore St,1,0,http://www.gunviolencearchive.org/incident/92445,http://www.wxyz.com/dpp/news/detroit-police-investigating-murder-of-23-year-old,FALSE,13,,,"Shot - Dead (murder, accidental, suicide)",,,,,,
+92616,1/3/2014,Michigan,Detroit,15000 block of Ardmore,0,1,http://www.gunviolencearchive.org/incident/92616,http://detroit.cbslocal.com/2014/01/03/state-removes-children-left-at-crime-scene-in-detroit/,FALSE,14,,,Shot - Wounded/Injured,,,,,,
+107321,1/3/2014,Michigan,Detroit, Detroit Metro Airport,0,0,http://www.gunviolencearchive.org/incident/107321,http://blog.tsa.gov/2014_01_10_archive.html,FALSE,13,,,TSA Action,,,,,,
+92870,1/3/2014,Michigan,Prescott,700 block of Henderson Lake Road,1,0,http://www.gunviolencearchive.org/incident/92870,http://www.mlive.com/news/bay-city/index.ssf/2014/01/prescott_man_charged_with_seco.html#incart_river_default,FALSE,4,,,"Shot - Dead (murder, accidental, suicide)",,,,,,
+92774,1/3/2014,Michigan,Midland,700 Village East,2,0,http://www.gunviolencearchive.org/incident/92774,http://www.abc12.com/story/24387067/midland-man-dies-in-murder-suicide,FALSE,4,0::Unknown,0::Unknown,"Shot - Dead (murder, accidental, suicide)||Suicide^||Murder/Suicide",,,,,,
+103935,1/4/2014,Michigan,Kalamazoo,700 block of Millard Court,0,1,http://www.gunviolencearchive.org/incident/103935,http://wwmt.com/template/cgi-bin/archived.pl,FALSE,6,,,Shot - Wounded/Injured,,,,,,
+93073,1/5/2014,Michigan,Grand Rapids,1000 block of Temple Street SE,0,0,http://www.gunviolencearchive.org/incident/93073,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/grand_rapids_police_investigat_65.html#incart_river_default,FALSE,3,,,Brandishing/flourishing/open carry/lost/found,,,,,,
+93956,1/5/2014,Michigan,Flint,North Stevenson Street and Woodbridge St.,0,1,http://www.gunviolencearchive.org/incident/93956,http://www.mlive.com/news/flint/index.ssf/2014/01/flint_man_shot_while_shoveling.html,FALSE,5,,,Shot - Wounded/Injured,,,,,,
+93389,1/5/2014,Michigan,Inkster,27000 block of New York Street,1,0,http://www.gunviolencearchive.org/incident/93389,/27000%20block%20of%20New%20York%20Street,FALSE,13,,,"Shot - Dead (murder, accidental, suicide)",,,,,,
+93720,1/6/2014,Michigan,Pontiac,200 block of Ogemaw St,0,0,http://www.gunviolencearchive.org/incident/93720,http://www.detroitnews.com/article/20140107/METRO02/301070067/1409/METRO/Pontiac-man-allegedly-robbed-by-step-daughter-s-friends,FALSE,14,,,Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+94659,1/6/2014,Michigan,Flint,1000 block of Lyon St,0,0,http://www.gunviolencearchive.org/incident/94659,http://www.mlive.com/news/flint/index.ssf/2014/01/womans_flint_home_ransacked_gu.html,FALSE,5,,,,,,,,,
+201915,1/7/2014,Michigan,Coloma,,1,1,http://www.gunviolencearchive.org/incident/201915,http://www.abc57.com/home/top-stories/Police-rule-Coloma-double-shooting-an-attempted-murder-suicide-239462691.html,FALSE,6,,,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Suicide^||Domestic Violence",,,,,,
+93751,1/7/2014,Michigan,Taylor,Bank of America on Eureka Road,0,0,http://www.gunviolencearchive.org/incident/93751,http://www.wxyz.com/dpp/news/region/wayne_county/taylor-police-search-for-woman-that-pulled-off-armed-robbery-at-bank,FALSE,12,,,Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+94249,1/9/2014,Michigan,Southfield,28000 block of Greenfield Road,0,0,http://www.gunviolencearchive.org/incident/94249,http://www.detroitnews.com/article/20140109/METRO02/301090077/1361/update/Southfield-police-capture-suspected-armed-carjackers-m,FALSE,14,,,Shots Fired - No Injuries||Officer Involved Incident||Armed robbery with injury/death and/or evidence of DGU found||Car-jacking,,,,,,
+94251,1/9/2014,Michigan,Detroit,6000 block of Mansfield St,0,1,http://www.gunviolencearchive.org/incident/94251,http://www.wxyz.com/dpp/news/pregnant-woman-grazed-by-bullet-in-drive-by-shooting-on-detroits-west-side-according-to-neighbors,FALSE,13,,,"Shot - Wounded/Injured||Drive-by (car to street, car to car)",,,,,,
+96232,1/9/2014,Michigan,Dearborn Heights,24700 block of Annapolis,0,0,http://www.gunviolencearchive.org/incident/96232,http://www.pressandguide.com/articles/2014/01/14/news/doc52d5409fc9819598127215.txt,FALSE,13,,,Home Invasion||Home Invasion - No death or injury||Brandishing/flourishing/open carry/lost/found,,,,,,
+96982,1/9/2014,Michigan,Flint,Carpenter Road and Martin Luther King Av,0,0,http://www.gunviolencearchive.org/incident/96982,http://www.mlive.com/news/flint/index.ssf/2014/01/man_robs_ez_stop_store_on_carp.html,FALSE,5,,,Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+94347,1/9/2014,Michigan,Paw Paw,600 block of Paw Paw Street,0,1,http://www.gunviolencearchive.org/incident/94347,http://www.mlive.com/news/kalamazoo/index.ssf/2014/01/standoff_in_paw_paw_ends_with.html,FALSE,6,,,Shot - Wounded/Injured||Domestic Violence,,,,,,
+94654,1/10/2014,Michigan,Warren,26300 Dequindre Road,0,0,http://www.gunviolencearchive.org/incident/94654,http://www.wxyz.com/dpp/news/caught-on-camer-local-hotel-clerk-robbed-at-gunpoint,FALSE,9,0::Unknown,0::Handgun,Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+190560,1/10/2014,Michigan,Flint,3600 block of Sterling Street,0,0,http://www.gunviolencearchive.org/incident/190560,http://www.mlive.com/news/flint/index.ssf/2014/09/crime_stoppers_offers_reward_f_2.html,FALSE,5,,,"Shot - Dead (murder, accidental, suicide)",,,,,,
+96980,1/10/2014,Michigan,Flint,Burroughs and Custer av,0,0,http://www.gunviolencearchive.org/incident/96980,http://www.mlive.com/news/flint/index.ssf/2014/01/man_carjacked_at_gunpoint_in_f.html,FALSE,5,,,Armed robbery with injury/death and/or evidence of DGU found||Car-jacking,,,,,,
+94651,1/10/2014,Michigan,Eastpointe,Greektown casino,1,1,http://www.gunviolencearchive.org/incident/94651,http://www.wxyz.com/dpp/news/man-shoots-at-teenagers-walking-to-school-13-year-old-shot-in-the-thigh,FALSE,9,,,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)||Suicide^",,,,,,
+95505,1/11/2014,Michigan,Saginaw,S. 14th Street and Burt Street,0,1,http://www.gunviolencearchive.org/incident/95505,http://www.mlive.com/news/saginaw/index.ssf/2014/01/police_female_in_moving_car_sh.html#incart_river,FALSE,5,,,Shot - Wounded/Injured,,,,,,
+94989,1/11/2014,Michigan,Flint,Davison Road and N. Dort Highway,1,1,http://www.gunviolencearchive.org/incident/94989,http://www.mlive.com/news/flint/index.ssf/2014/01/flint_police_identify_years_fi.html#incart_river_default,FALSE,5,,,Shot - Wounded/Injured,,,,,,
+96223,1/11/2014,Michigan,Dearborn Heights,25320 Van Born Road,0,0,http://www.gunviolencearchive.org/incident/96223,http://www.pressandguide.com/articles/2014/01/14/news/doc52d54bc616a4b941838212.txt,FALSE,13,,,Armed robbery with injury/death and/or evidence of DGU found||Implied Weapon,,,,,,
+95509,1/11/2014,Michigan,Grand Rapids,4000 block of Tangle Circle Drive SE,0,0,http://www.gunviolencearchive.org/incident/95509,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/online_gun_sale_ends_in_armed.html#incart_river_default,FALSE,3,,,Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+95493,1/12/2014,Michigan,Flint,,0,0,http://www.gunviolencearchive.org/incident/95493,http://www.freep.com/article/20140112/NEWS06/301120134/flint-ambulance-shot-bullet,FALSE,5,,,Shots Fired - No Injuries,,,,,,
+95489,1/12/2014,Michigan,Southfield,Northland Center mall,0,0,http://www.gunviolencearchive.org/incident/95489,http://www.wxyz.com/dpp/news/region/oakland_county/shots-fired-at-northland-center-mall-no-injuries,FALSE,14,,,Shots Fired - No Injuries,,,,,,
+95711,1/12/2014,Michigan,Detroit,"18615 Livernois Ave, Livernois Market",0,1,http://www.gunviolencearchive.org/incident/95711,http://www.wxyz.com/dpp/news/region/detroit/party-store-owner-pistol-whipped-and-business-burned,FALSE,13,,,Armed robbery with injury/death and/or evidence of DGU found||Pistol-whipping||Brandishing/flourishing/open carry/lost/found,,,,,,
+96185,1/13/2014,Michigan,Detroit,800 block of Calvert St,0,4,http://www.gunviolencearchive.org/incident/96185,http://www.spotcrime.com/crime/47471682-709e289e9acad648acee8e19eba47aaa,FALSE,13,,,"Shot - Wounded/Injured||Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)||Brandishing/flourishing/open carry/lost/found",,,,,,
+96699,1/14/2014,Michigan,Flint,Susan Court near Sally Court,0,1,http://www.gunviolencearchive.org/incident/96699,http://www.mlive.com/news/flint/index.ssf/2014/01/16-year-old_girl_in_good_condi.html,FALSE,5,,,Shot - Wounded/Injured,,,,,,
+96215,1/14/2014,Michigan,Grand Rapids,"Castleridge Drive, north of 44th Street/west of Breton Road",0,1,http://www.gunviolencearchive.org/incident/96215,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/grand_rapids_police_officer_sh_1.html#incart_river_default,FALSE,2,,,Shot - Wounded/Injured||Officer Involved Incident||Officer Involved Shooting - subject/suspect/perpetrator shot||Brandishing/flourishing/open carry/lost/found,,,,,,
+217342,1/14/2014,Michigan,Detroit,9000 Middlebelt Rd,0,0,http://www.gunviolencearchive.org/incident/217342,http://blog.tsa.gov/2014/01/tsa-week-in-review-42-firearms.html,FALSE,13,,,TSA Action,,,,,,
+100052,1/14/2014,Michigan,Bay City,East Side,0,0,http://www.gunviolencearchive.org/incident/100052,http://www.mlive.com/news/bay-city/index.ssf/2014/05/two_saginaw_men_charged_in_bay.html,FALSE,5,,,Home Invasion||Sex crime involving firearm||Armed robbery with injury/death and/or evidence of DGU found||Possession (gun(s) found during commission of other crimes),,,,,,
+96635,1/14/2014,Michigan,Ludington,200 block of N. Dennis Road,1,0,http://www.gunviolencearchive.org/incident/96635,http://www.mlive.com/news/muskegon/index.ssf/2014/01/name_of_man_shot_and_killed_by.html,FALSE,1,0::Unknown,0::Unknown,"Shot - Dead (murder, accidental, suicide)||Officer Involved Incident||Officer Involved Shooting - subject/suspect/perpetrator killed",,,,,,
+217352,1/15/2014,Michigan,Detroit,9000 Middlebelt Rd,0,0,http://www.gunviolencearchive.org/incident/217352,http://blog.tsa.gov/2014/01/tsa-week-in-review-42-firearms.html,FALSE,13,,,TSA Action,,,,,,
+97359,1/15/2014,Michigan,Flint,2000 block of Terrace Dr near Dort Highway,0,0,http://www.gunviolencearchive.org/incident/97359,http://www.mlive.com/news/flint/index.ssf/2014/01/flint_sex_offender_faces_feder.html#incart_flyout_news,FALSE,5,,,Shots Fired - No Injuries||Drug involvement||Home Invasion||Home Invasion - No death or injury||Armed robbery with injury/death and/or evidence of DGU found||Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found||Defensive Use,,,,,,
+97350,1/15/2014,Michigan,Detroit,southwest side,0,1,http://www.gunviolencearchive.org/incident/97350,http://www.abc12.com/story/24472684/shots-fired-at-detroit-home-boy-3-cut-by-glass,FALSE,13,,,Brandishing/flourishing/open carry/lost/found,,,,,,
+96962,1/15/2014,Michigan,Grand Blanc,Wallingford Drive,0,0,http://www.gunviolencearchive.org/incident/96962,http://www.abc12.com/story/24466718/grand-blanc-township-police-at-the-scene-of-a-barricaded-gunman,FALSE,5,,,Shots Fired - No Injuries||Brandishing/flourishing/open carry/lost/found,,,,,,
+96960,1/15/2014,Michigan,Detroit,Chandler Park Drive and Conner,1,1,http://www.gunviolencearchive.org/incident/96960,http://www.detroitnews.com/article/20140115/METRO01/301150133/1409/METRO/1-dead-1-critical-after-shooting-Detroit-s-east-side,FALSE,13,,,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)",,,,,,
+96692,1/15/2014,Michigan,Ludington,,1,0,http://www.gunviolencearchive.org/incident/96692,http://www.freep.com/article/20140115/NEWS06/301150087/police-shooting-man-killed,FALSE,2,,,Officer Involved Incident||Officer Involved Shooting - subject/suspect/perpetrator killed||Brandishing/flourishing/open carry/lost/found,,,,,,
+96697,1/15/2014,Michigan,Flint,Mohawk Avenue near Dort Highway,0,0,http://www.gunviolencearchive.org/incident/96697,http://www.mlive.com/news/flint/index.ssf/2014/01/flint_police_chief_james_tolbe.html#incart_river_default,FALSE,5,,,Home Invasion||Home Invasion - No death or injury||Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+96983,1/16/2014,Michigan,Lansing,3600 block of West Miller Road,0,0,http://www.gunviolencearchive.org/incident/96983,http://www.lansingstatejournal.com/article/20140116/NEWS01/301160025/Lansing-police-looking-suspects-after-shots-fired-during-ar,FALSE,8,,,Shots Fired - No Injuries||Brandishing/flourishing/open carry/lost/found,,,,,,
+97201,1/16/2014,Michigan,Romulus,71000 block of Tuxedo street,1,0,http://www.gunviolencearchive.org/incident/97201,http://www.wxyz.com/dpp/news/region/detroit/three-charged-with-involuntary-manslaughter-in-shooting-death-of-jamel-witcher-jr,FALSE,13,0::Unknown,0::30-30 Win,"Shot - Dead (murder, accidental, suicide)||Child Involved Incident||Child picked up & fired gun||Child killed by child||Possession (gun(s) found during commission of other crimes)",,,,,,
+97755,1/16/2014,Michigan,Flint,500 block of East Marengo Av,0,0,http://www.gunviolencearchive.org/incident/97755,http://www.mlive.com/news/flint/index.ssf/2014/01/woman_finds_several_bullet_hol.html#incart_river,FALSE,5,,,Shots Fired - No Injuries,,,,,,
+96985,1/16/2014,Michigan,Lansing,1923 East Michigan Av/Speedway,0,0,http://www.gunviolencearchive.org/incident/96985,http://www.lansingstatejournal.com/article/20140116/NEWS01/301160021/Suspect-sought-after-early-morning-robbery-Lansing-Speedway,FALSE,8,,,Armed robbery with injury/death and/or evidence of DGU found||Implied Weapon,,,,,,
+96987,1/16/2014,Michigan,Roscommon Township,a home in Roscommon Township,1,0,http://www.gunviolencearchive.org/incident/96987,http://www.lansingstatejournal.com/viewart/20140116/NEWS01/301160034/Man-fatally-shot-during-standoff-Michigan-police,FALSE,4,,,Officer Involved Incident||Officer Involved Shooting - subject/suspect/perpetrator killed||Brandishing/flourishing/open carry/lost/found,,,,,,
+97366,1/16/2014,Michigan,Grand Rapids,1200 block of Palmer Court NE,0,0,http://www.gunviolencearchive.org/incident/97366,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/grpd_responding_to_report_of_m.html#incart_river_default,FALSE,3,,,Shots Fired - No Injuries,,,,,,
+100058,1/17/2014,Michigan,Bay City,,0,0,http://www.gunviolencearchive.org/incident/100058,http://www.mlive.com/news/bay-city/index.ssf/2014/05/two_saginaw_men_charged_in_bay.html,FALSE,5,,,Possession (gun(s) found during commission of other crimes),,,,,,
+99764,1/17/2014,Michigan,Ypsilanti,600 block of Armstrong Court,0,0,http://www.gunviolencearchive.org/incident/99764,http://www.mlive.com/news/ann-arbor/index.ssf/2014/01/teen_charged_in_shooting_that.html,FALSE,12,0::Unknown,0::Unknown,Shots Fired - No Injuries,,,,,,
+97343,1/17/2014,Michigan,Detroit,Algonquin St. near East Warren Av,0,3,http://www.gunviolencearchive.org/incident/97343,http://www.wxyz.com/dpp/news/region/detroit/4-people-in-hospital-after-shooting-on-detroits-east-side,FALSE,13,,,Shot - Wounded/Injured||Brandishing/flourishing/open carry/lost/found,,,,,,
+97348,1/17/2014,Michigan,Saginaw,Sheridan,0,1,http://www.gunviolencearchive.org/incident/97348,http://www.abc12.com/story/24482325/man-shot-outside-saginaw-dollar-store,FALSE,5,,,Shot - Wounded/Injured||Brandishing/flourishing/open carry/lost/found,,,,,,
+97759,1/18/2014,Michigan,Holland,11th Street and River Av/Golden 8 Ball pool hall,0,1,http://www.gunviolencearchive.org/incident/97759,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/grand_rapids_man_suffers_non-l.html#incart_river,FALSE,2,,,Shot - Wounded/Injured,,,,,,
+98058,1/18/2014,Michigan,Pontiac,Luther and Motor,0,2,http://www.gunviolencearchive.org/incident/98058,http://www.freep.com/article/20140119/NEWS03/301190128/Two-shot-one-stabbed-in-Pontiac,FALSE,14,,,Shot - Wounded/Injured,,,,,,
+97757,1/18/2014,Michigan,Grand Rapids,900 block of Maybelle Street NE,0,1,http://www.gunviolencearchive.org/incident/97757,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/one_person_reportedly_shot_in.html#incart_river_default,FALSE,3,,,"Shot - Wounded/Injured||Drive-by (car to street, car to car)",,,,,,
+98004,1/18/2014,Michigan,Hudsonville,Byron Rd,0,1,http://www.gunviolencearchive.org/incident/98004,http://www.mlive.com/news/grand-rapids/index.ssf/2014/05/man_who_accidentally_shot_wife.html#incart_river_default,FALSE,2,0::Unknown,0::Unknown,Shot - Wounded/Injured||Accidental Shooting||Accidental Shooting - Injury||Hunting accident,,,,,,
+98247,1/19/2014,Michigan,Grand Rapids, 2000 block of Ionia Avenue SW,0,0,http://www.gunviolencearchive.org/incident/98247,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/grand_rapids_police_respond_to_9.html#incart_river_default,FALSE,3,,,Brandishing/flourishing/open carry/lost/found,,,,,,
+98061,1/19/2014,Michigan,Flint, Asylum Street near West Second Street,0,1,http://www.gunviolencearchive.org/incident/98061,http://www.minbcnews.com/news/story.aspx,FALSE,5,,,Shot - Wounded/Injured,,,,,,
+98006,1/19/2014,Michigan,Grand Rapids,1901 South Division Av,0,1,http://www.gunviolencearchive.org/incident/98006,http://www.mlive.com/news/grand-rapids/index.ssf/2014/03/anecdotes_show_spike_in_self-d.html,FALSE,3,,,Shot - Wounded/Injured||Bar/club incident - in or around establishment||Armed robbery with injury/death and/or evidence of DGU found||Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found||Defensive Use,,,,,,
+98240,1/19/2014,Michigan,Flint,Asylum near West 2nd Street ,0,1,http://www.gunviolencearchive.org/incident/98240,http://www.mlive.com/news/flint/index.ssf/2014/01/38-year-old_flint_man_charged_1.html,FALSE,5,,,Shot - Wounded/Injured||Home Invasion||Home Invasion - Resident injured||Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+98703,1/20/2014,Michigan,Flint,Leta Avenue,0,1,http://www.gunviolencearchive.org/incident/98703,http://www.mlive.com/news/flint/index.ssf/2017/02/man_serving_shooting_sentence.html#incart_river_home,FALSE,5,0::Unknown,0::Unknown,Shot - Wounded/Injured||Armed robbery with injury/death and/or evidence of DGU found||Car-jacking,,,,,,
+112715,1/20/2014,Michigan,Grand Rapids,1900 block of Division Ave. S,0,1,http://www.gunviolencearchive.org/incident/112715,http://fox17online.com/2014/01/19/shooting-at-yester-years-lounge/#axzz2r0mFefIp,FALSE,3,,,Shot - Wounded/Injured||Bar/club incident - in or around establishment||Defensive Use,,,,,,
+99258,1/21/2014,Michigan,Lansing,,0,0,http://www.gunviolencearchive.org/incident/99258,http://www.detroitnews.com/article/20140122/METRO06/301220041/1409/METRO/Police-2-men-shoot-dog-steal-medical-marijuana,FALSE,8,,,Drug involvement||Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found||Animal shot/killed,,,,,,
+99260,1/21/2014,Michigan,Roseville, 30000 block of Sandhurst,0,0,http://www.gunviolencearchive.org/incident/99260,http://www.detroitnews.com/article/20140121/METRO03/301210096/1409/METRO/Roseville-man-who-sought-help-accused-pointing-gun-para,FALSE,9,,,Brandishing/flourishing/open carry/lost/found,,,,,,
+100374,1/21/2014,Michigan,Flint,2000 block of West Hobson Av,0,0,http://www.gunviolencearchive.org/incident/100374,http://www.mlive.com/news/flint/index.ssf/2014/01/bullet_goes_through_several_wa.html,FALSE,5,,,Shots Fired - No Injuries,,,,,,
+100405,1/21/2014,Michigan,Ypsilanti,700 block of Congress Street,0,1,http://www.gunviolencearchive.org/incident/100405,http://www.mlive.com/news/ann-arbor/index.ssf/2014/02/four_teens_faces_charges_in_pi.html,FALSE,12,0::Unknown,0::Unknown,Non-Shooting Incident||Armed robbery with injury/death and/or evidence of DGU found||Car-jacking||Pistol-whipping,,,,,,
+102279,1/22/2014,Michigan,Flint,East Carpenter Road,0,0,http://www.gunviolencearchive.org/incident/102279,http://www.mlive.com/news/flint/index.ssf/2014/01/flint_teen_robbed_after_he_tri.html,FALSE,5,,,Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+99960,1/22/2014,Michigan,Spring Arbor Township,Ken Drive,1,0,http://www.gunviolencearchive.org/incident/99960,http://www.mlive.com/news/jackson/index.ssf/2015/05/hearings_delayed_in_case_of_ma.html#incart_m-rpt-2,FALSE,7,0::Unknown,0::Handgun,"Shot - Dead (murder, accidental, suicide)||Domestic Violence",,,,,,
+106770,1/22/2014,Michigan,Waterford,,0,0,http://www.gunviolencearchive.org/incident/106770,http://www.freep.com/article/20140214/NEWS03/302140088/Oakland-County-police-investigate-pellet-or-BB-gun-shootings,FALSE,11,,,Shots Fired - No Injuries||Brandishing/flourishing/open carry/lost/found,,,,,,
+217851,1/22/2014,Michigan,Traverse City,727 Fly Don't Dr,0,0,http://www.gunviolencearchive.org/incident/217851,http://blog.tsa.gov/2014/01/tsa-week-in-review-23-firearms.html,FALSE,1,,,TSA Action,,,,,,
+99953,1/23/2014,Michigan,Detroit,4900 block of Cecil Street,0,1,http://www.gunviolencearchive.org/incident/99953,http://www.detroitnews.com/article/20140124/METRO01/301240068/Detroit-man-robbed-shot-alley-west-side,FALSE,13,,,Shot - Wounded/Injured||Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+100800,1/25/2014,Michigan,Lansing,North Grand River Av,0,0,http://www.gunviolencearchive.org/incident/100800,http://www.lansingstatejournal.com/article/20140127/NEWS01/301270023/Lansing-police-investigating-two-weekend-armed-robberies,FALSE,8,,,Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+188637,1/25/2014,Michigan,Rochester,,1,0,http://www.gunviolencearchive.org/incident/188637,http://www.theoaklandpress.com/general-news/20140909/body-of-rochester-hills-man-missing-since-january-found-in-rochester,FALSE,8,,,"Shot - Dead (murder, accidental, suicide)||Suicide^",,,,,,
+100803,1/26/2014,Michigan,Lansing,6200 bl/S. Martin Luther King Jr. Blvd/Marioâ€™s Market,0,0,http://www.gunviolencearchive.org/incident/100803,http://www.lansingstatejournal.com/article/20140127/NEWS01/301270023/Lansing-police-investigating-two-weekend-armed-robberies,FALSE,8,,,Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+109521,1/26/2014,Michigan,Detroit,Detroit Metro Airport,0,0,http://www.gunviolencearchive.org/incident/109521,http://blog.tsa.gov/2014/01/tsa-week-in-review-37-firearms.html,FALSE,13,,,TSA Action,,,,,,
+100642,1/26/2014,Michigan,Grand Rapids,100 block of Corinne St. SW.,0,0,http://www.gunviolencearchive.org/incident/100642,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/armed_robbery_suspects_flee_af.html,FALSE,3,,,Home Invasion||Home Invasion - No death or injury||Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+108908,1/27/2014,Michigan,Crystal Falls,,0,1,http://www.gunviolencearchive.org/incident/108908,http://abc10up.com/woman-in-hospital-after-accidentally-shooting-legs/,FALSE,1,,,Shot - Wounded/Injured||Accidental Shooting||Accidental Shooting - Injury||Accidental/Negligent Discharge||Self-Inflicted (not suicide or suicide attempt - NO PERP),,,,,,
+101826,1/28/2014,Michigan,Detroit, 8000 block of W. Eight Mile ,0,0,http://www.gunviolencearchive.org/incident/101826,http://www.detroitnews.com/article/20140129/METRO01/301290096/1410/METRO01,FALSE,14,,,Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+273488,1/29/2014,Michigan,Ecorse,9th Street,1,0,http://www.gunviolencearchive.org/incident/273488,http://www.clickondetroit.com/news/river-rouge-man-gunned-down-during-attempted-robbery-in-ecorse/30502498,FALSE,13,0::Unknown,0::357 Mag,"Shot - Dead (murder, accidental, suicide)||Armed robbery with injury/death and/or evidence of DGU found",,,,,,
+101927,1/29/2014,Michigan,Cedar Springs,12000 block of Shaner Ave NE,0,1,http://www.gunviolencearchive.org/incident/101927,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/13-year-old_reportedly_suffers.html#incart_river,FALSE,3,0::Unknown,0::Unknown,Shot - Wounded/Injured||Accidental Shooting||Accidental/Negligent Discharge,,,,,,
+102282,1/29/2014,Michigan,Flint,2600 block of Grady Court,0,2,http://www.gunviolencearchive.org/incident/102282,http://www.mlive.com/news/flint/index.ssf/2014/01/men_involved_in_double_shootin.html#incart_river,FALSE,5,,,Shot - Wounded/Injured||Brandishing/flourishing/open carry/lost/found,,,,,,
+102031,1/29/2014,Michigan,Flint,1400 block of Eldorado Drive,1,0,http://www.gunviolencearchive.org/incident/102031,http://www.mlive.com/news/flint/index.ssf/2014/02/three_flint_teens_charged_afte.html#incart_river_default,FALSE,5,,,"Shot - Dead (murder, accidental, suicide)||Armed robbery with injury/death and/or evidence of DGU found||Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found",,,,,,
+102026,1/29/2014,Michigan,Grand Rapids,800 block of Myrtle Street NW,0,0,http://www.gunviolencearchive.org/incident/102026,http://www.mlive.com/news/grand-rapids/index.ssf/2014/01/suspect_arrested_after_alleged.html,FALSE,3,,,Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+101717,1/29/2014,Michigan,Lansing,4200 block of Pleasant Grove Road,0,0,http://www.gunviolencearchive.org/incident/101717,http://www.lansingstatejournal.com/article/20140129/NEWS01/301290023/Police-investigating-shooting-Lansing-medical-marijuana-car,FALSE,8,,,Shots Fired - No Injuries||Brandishing/flourishing/open carry/lost/found,,,,,,
+102749,1/30/2014,Michigan,East Lansing,2736 E Grand River Ave,0,0,http://www.gunviolencearchive.org/incident/102749,http://www.lansingstatejournal.com/article/20140131/NEWS01/301310037/Police-investigating-robbery-Meridian-Township-hotel,FALSE,8,0::Unknown,0::Unknown,Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+110446,1/30/2014,Michigan,Detroit,Detroit Metro Airport,0,0,http://www.gunviolencearchive.org/incident/110446,http://blog.tsa.gov/search,FALSE,13,,,TSA Action,,,,,,
+108932,1/31/2014,Michigan,Leonidas,53000 block of Olney Rd,0,1,http://www.gunviolencearchive.org/incident/108932,http://www.wndu.com/home/headlines/Man-wounded-when-firearm-accidentally-goes-off-243249761.html,FALSE,6,0::Unknown,0::Unknown,Shot - Wounded/Injured||Accidental Shooting||Accidental Shooting - Injury||Self-Inflicted (not suicide or suicide attempt - NO PERP),,,,,,
+102733,1/31/2014,Michigan,East Lansing,"1000 Village Dr,",1,1,http://www.gunviolencearchive.org/incident/102733,http://www.toledoblade.com/Nation/2014/02/01/2-students-shot-at-apartment-near-Michigan-State-University-campus-police-search-fo,FALSE,8,,,"Shot - Wounded/Injured||Shot - Dead (murder, accidental, suicide)",,,,,,
+210353,1/31/2014,Michigan,Ionia County,,0,0,http://www.gunviolencearchive.org/incident/210353,http://woodtv.com/2014/01/31/woman-finds-masked-teen-with-gun-on-doorstep/,FALSE,3,,,Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found||Defensive Use,,,,,,
+102587,1/31/2014,Michigan,Jackson,1712 E. Michigan Ave.,0,0,http://www.gunviolencearchive.org/incident/102587,http://www.mlive.com/news/jackson/index.ssf/2014/01/jackson_police_searching_for_a.html,FALSE,7,,,Armed robbery with injury/death and/or evidence of DGU found||Implied Weapon,,,,,,
+138083,1/31/2014,Michigan,Saginaw,1800 N. Bond,0,0,http://www.gunviolencearchive.org/incident/138083,http://www.mlive.com/news/saginaw/index.ssf/2014/05/men_charged_with_robbing_3_men.html,FALSE,5,,,Armed robbery with injury/death and/or evidence of DGU found||Possession (gun(s) found during commission of other crimes),,,,,,
+102747,1/31/2014,Michigan,Laingsburg,Phelps Rd,0,1,http://www.gunviolencearchive.org/incident/102747,http://www.lansingstatejournal.com/viewart/20140131/NEWS01/301310014/Man-involved-standoff-Laingsburg-shot-by-police,FALSE,4,,,Officer Involved Incident||Officer Involved Shooting - subject/suspect/perpetrator shot||Brandishing/flourishing/open carry/lost/found,,,,,,
+104297,2/1/2014,Michigan,Detroit,900 block of Glynn Ct,0,1,http://www.gunviolencearchive.org/incident/104297,http://www.wxyz.com/dpp/news/detroit-police-need-help-identifying-shooting-victim,FALSE,13,,,Shot - Wounded/Injured,,,,,,
+102745,2/1/2014,Michigan,Big Rapids,Venlo Place apartments,0,1,http://www.gunviolencearchive.org/incident/102745,http://www.mlive.com/news/grand-rapids/index.ssf/2014/02/detroit_area_man_charged_with.html#incart_river_default,FALSE,4,,,Shot - Wounded/Injured||Brandishing/flourishing/open carry/lost/found,,,,,,
+103832,2/1/2014,Michigan,Flint,3000 block of West Corunna Road,0,1,http://www.gunviolencearchive.org/incident/103832,http://www.mlive.com/news/flint/index.ssf/2014/02/man_accidentally_shoots_himsel_1.html#incart_river_news,FALSE,5,,,Shot - Wounded/Injured||Accidental Shooting||Accidental Shooting - Injury||Accidental/Negligent Discharge,,,,,,
+117066,2/2/2014,Michigan,Detroit, Harper Ave and Field St,0,1,http://www.gunviolencearchive.org/incident/117066,http://www.detroitnews.com/article/99999999/SPECIAL01/120606001,FALSE,13,,,Shot - Wounded/Injured,,,,,,
+110646,2/2/2014,Michigan,Detroit,Detroit Metro Airport,0,0,http://www.gunviolencearchive.org/incident/110646,http://blog.tsa.gov/2014_02_07_archive.html,FALSE,13,,,TSA Action,,,,,,
+103820,2/3/2014,Michigan,Rochester Hills,180 South Livernois Road,0,0,http://www.gunviolencearchive.org/incident/103820,http://www.freep.com/article/20140204/NEWS03/302040114/Rochester-schools-change-security-company,FALSE,8,0::Unknown,0::9mm,"School Incident||Gun at school, no death/injury - elementary/secondary school||Possession (gun(s) found during commission of other crimes)",,,,,,
+107303,2/3/2014,Michigan,Battle Creek,,0,1,http://www.gunviolencearchive.org/incident/107303,http://www.monroenews.com/news/2014/feb/04/bedford-man-accidentally-shoots-self-leg/,FALSE,3,,,Shot - Wounded/Injured||Accidental Shooting||Accidental Shooting - Injury,,,,,,
+117050,2/4/2014,Michigan,Detroit,18000 Hickory St,1,0,http://www.gunviolencearchive.org/incident/117050,http://www.detroitnews.com/article/99999999/SPECIAL01/120606001,FALSE,14,,,"Shot - Dead (murder, accidental, suicide)",,,,,,
+105064,2/4/2014,Michigan,Dearborn,25000 block of Pennie Road,0,0,http://www.gunviolencearchive.org/incident/105064,http://www.pressandguide.com/articles/2014/02/08/news/doc52f4f408ba04f365236327.txt,FALSE,13,,,Gun(s) stolen from owner,,,,,,
+104014,2/4/2014,Michigan,Independence Township,6500 block of Dixie Highway,1,0,http://www.gunviolencearchive.org/incident/104014,http://www.detroitnews.com/article/20140205/METRO02/302050088/0/METRO/Gun-range-video-captures-suicide-Waterford-woman,FALSE,8,,,"Shot - Dead (murder, accidental, suicide)||Suicide^||Gun range/gun shop/gun show shooting||Brandishing/flourishing/open carry/lost/found",,,,,,
+103808,2/4/2014,Michigan,Bloomfield Township,1600 block of Bloomfield Place,0,1,http://www.gunviolencearchive.org/incident/103808,http://www.detroitnews.com/article/20140204/METRO02/302040063/1409/METRO/Intruder-shot-by-Bloomfield-Twp-resident-during-break-a,FALSE,9,,,Shot - Wounded/Injured||Home Invasion||Home Invasion - subject/suspect/perpetrator injured||Armed robbery with injury/death and/or evidence of DGU found||Defensive Use,,,,,,
+103828,2/4/2014,Michigan,Saginaw,Sheridan and Williamson,0,1,http://www.gunviolencearchive.org/incident/103828,http://www.mlive.com/news/saginaw/index.ssf/2014/02/prosecutors_charge_men_who_fle.html,FALSE,5,0::Unknown||1::Unknown,0::Handgun||1::Handgun,Shot - Wounded/Injured,,,,,,
+117056,2/5/2014,Michigan,Detroit,15000 Spring Garden St,0,1,http://www.gunviolencearchive.org/incident/117056,http://www.detroitnews.com/article/99999999/SPECIAL01/120606001,FALSE,14,,,Shot - Wounded/Injured,,,,,,
+106014,2/5/2014,Michigan,Mount Pleasant, South Mission Street,0,0,http://www.gunviolencearchive.org/incident/106014,http://www.abc12.com/story/24684806/man-arraigned-on-multiple-charges-for-mount-pleasant-shooting,FALSE,4,,,Shots Fired - No Injuries||Brandishing/flourishing/open carry/lost/found,,,,,,
+104433,2/5/2014,Michigan,Madison Heights,29265 Dequindre,0,0,http://www.gunviolencearchive.org/incident/104433,http://www.theoaklandpress.com/general-news/20140206/madison-heights-armed-robbery-tied-to-doughnut-shop-burglaries,FALSE,9,,,Armed robbery with injury/death and/or evidence of DGU found||Implied Weapon,,,,,,
+104738,2/7/2014,Michigan,Pontiac,100 block of Seneca,0,1,http://www.gunviolencearchive.org/incident/104738,http://www.detroitnews.com/article/20140206/METRO02/302060136/0/METRO/Police-kill-German-shepherd-seek-2nd-dog-after-Pontiac-att,FALSE,14,,,Officer Involved Incident||Animal shot/killed||Defensive Use,,,,,,
+106459,2/7/2014,Michigan,Oak Park,10 Mile and Greenfield,0,0,http://www.gunviolencearchive.org/incident/106459,http://www.theoaklandpress.com/general-news/20140213/oak-park-police-seek-man-in-armed-robbery-of-iphone-buyer,FALSE,14,,,Armed robbery with injury/death and/or evidence of DGU found||Car-jacking,,,,,,
+104824,2/7/2014,Michigan,Kalamazoo,South Burdick and West Dutton,0,0,http://www.gunviolencearchive.org/incident/104824,http://www.mlive.com/news/kalamazoo/index.ssf/2014/02/shooting_reported_at_corner_of.html,FALSE,6,,,Officer Involved Incident||Officer Involved Shooting - Officer shot,,,,,,
+105063,2/8/2014,Michigan,Pinconning,5000 block of N Huron Rd,1,0,http://www.gunviolencearchive.org/incident/105063,http://www.wnem.com/story/24678030/man-killed-in-pinconning-idd,FALSE,5,0::Unknown,0::Unknown,"Shot - Dead (murder, accidental, suicide)",,,,,,
+105074,2/8/2014,Michigan,Troy,Rochester Rd and W South Blvd,1,0,http://www.gunviolencearchive.org/incident/105074,http://www.theoaklandpress.com/general-news/20140224/troy-police-seek-publics-help-finding-customers-from-day-clerk-killed,FALSE,11,0::Unknown,0::Unknown,"Shot - Dead (murder, accidental, suicide)",,,,,,
+117059,2/8/2014,Michigan,Detroit,4100 E 7 Mile Rd,0,1,http://www.gunviolencearchive.org/incident/117059,http://www.detroitnews.com/article/99999999/SPECIAL01/120606001,FALSE,14,,,Shot - Wounded/Injured||Defensive Use,,,,,,
+117064,2/8/2014,Michigan,Detroit, 18400 Mt Elliot St,0,1,http://www.gunviolencearchive.org/incident/117064,http://www.detroitnews.com/article/99999999/SPECIAL01/120606001,FALSE,14,,,Shot - Wounded/Injured||Defensive Use,,,,,,
+106494,2/8/2014,Michigan,Pontiac,M-59 at Opdyke Road,0,0,http://www.gunviolencearchive.org/incident/106494,http://www.theoaklandpress.com/general-news/20140211/officials-warn-drivers-of-shots-fired-at-cars-in-pontiac-auburn-hills-and-o,FALSE,14,,,"Shots Fired - No Injuries||Drive-by (car to street, car to car)",,,,,,
+109577,2/9/2014,Michigan,Dearborn,7350 Chase Rd / Mount Moriah church,0,0,http://www.gunviolencearchive.org/incident/109577,http://www.pressandguide.com/articles/2014/02/24/news/doc5307a4261e569282748802.txt,FALSE,12,,,Implied Weapon,,,,,,
+332181,2/9/2014,Michigan,Grand Rapids,415 28th St SE,0,0,http://www.gunviolencearchive.org/incident/332181,http://www.mlive.com/news/grand-rapids/index.ssf/2015/04/prison_for_woman_who_fired_gun.html,FALSE,3,0::Unknown,0::Unknown,Institution/Group/Business||Shots Fired - No Injuries,,,,,,
+106004,2/9/2014,Michigan,Dearborn,1800 block of Wyoming St,0,1,http://www.gunviolencearchive.org/incident/106004,http://www.pressandguide.com/articles/2014/02/11/news/doc52fa620e71024542001272.txt,FALSE,12,,,Shot - Wounded/Injured,,,,,,
+117053,2/9/2014,Michigan,Detroit, 10900 Balfour Rd,0,1,http://www.gunviolencearchive.org/incident/117053,http://www.detroitnews.com/article/99999999/SPECIAL01/120606001,FALSE,14,,,Shot - Wounded/Injured,,,,,,
+105377,2/10/2014,Michigan,Grand Rapids,21 Weston St SW,0,1,http://www.gunviolencearchive.org/incident/105377,http://www.mlive.com/news/grand-rapids/index.ssf/2014/12/judge_scolds_thugs_who_think_t.html#incart_river,FALSE,3,0::Unknown,0::Unknown,Shot - Wounded/Injured,,,,,,
+107992,2/10/2014,Michigan,Detroit,13500 block of Bentler,3,0,http://www.gunviolencearchive.org/incident/107992,http://www.lansingstatejournal.com/viewart/20140217/NEWS01/302170038/Police-4-arrests-made-attack-left-3-dead,FALSE,13,,,"Shot - Dead (murder, accidental, suicide)||Drug involvement||Armed robbery with injury/death and/or evidence of DGU found||Possession (gun(s) found during commission of other crimes)",,,,,,
+108559,2/10/2014,Michigan,Waterford,,0,0,http://www.gunviolencearchive.org/incident/108559,http://www.theoaklandpress.com/general-news/20140220/suspect-in-waterford-twp-armed-robbery-charged-could-be-connected-to-other-,FALSE,11,,,Home Invasion||Home Invasion - No death or injury||Gun(s) stolen from owner,,,,,,
+105345,2/10/2014,Michigan,Flint,1400 block of Indiana Av,0,1,http://www.gunviolencearchive.org/incident/105345,http://www.mlive.com/news/flint/index.ssf/2014/02/one_person_shot_in_arm_during.html#incart_river_default,FALSE,5,,,Shot - Wounded/Injured||Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+105367,2/10/2014,Michigan,Grand Rapids,400 block of 28th Street SE,0,0,http://www.gunviolencearchive.org/incident/105367,http://www.mlive.com/news/grand-rapids/index.ssf/2014/03/no_plea_deal_for_woman_accused.html#incart_river_default,FALSE,2,,,Shots Fired - No Injuries||Brandishing/flourishing/open carry/lost/found,,,,,,
+106622,2/10/2014,Michigan,Taylor,7500 block of Wilkie,0,1,http://www.gunviolencearchive.org/incident/106622,http://www.freep.com/article/20140216/NEWS02/302160130/taylor-home-invasion-two-men-arraigned,FALSE,12,,,Shot - Wounded/Injured||Home Invasion||Home Invasion - Resident injured||Gun(s) stolen from owner,,,,,,
+107615,2/11/2014,Michigan,Detroit,6700 block of Heyden,0,0,http://www.gunviolencearchive.org/incident/107615,http://www.pressandguide.com/articles/2014/02/17/news/doc52fe9c9d94a76980680531.txt,FALSE,13,,,Non-Shooting Incident||Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+106168,2/12/2014,Michigan,Grand Rapids,Jefferson Avenue SE and Delaware St,0,0,http://www.gunviolencearchive.org/incident/106168,http://www.mlive.com/news/grand-rapids/index.ssf/2014/02/grand_rapids_police_investigat_67.html#incart_river_default,FALSE,3,,,Shots Fired - No Injuries||Brandishing/flourishing/open carry/lost/found,,,,,,
+106175,2/12/2014,Michigan,Grand Rapids,800 block of Fourth Street NW,0,0,http://www.gunviolencearchive.org/incident/106175,http://www.mlive.com/news/grand-rapids/index.ssf/2014/02/man_facing_weapons_charge_afte.html#incart_river_default,FALSE,3,,,Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found,,,,,,
+188838,2/12/2014,Michigan,Dearborn Heights,23210 Ford Road,0,0,http://www.gunviolencearchive.org/incident/188838,http://www.pressandguide.com/articles/2014/04/17/business/doc5350483c3e5e5872919024.txt,FALSE,13,,,Armed robbery with injury/death and/or evidence of DGU found||Institution/Group/Business,,,,,,
+106182,2/12/2014,Michigan,Lansing,5700 block of South Pennsylvania Av,0,0,http://www.gunviolencearchive.org/incident/106182,http://www.lansingstatejournal.com/article/20140212/NEWS01/302120054/Man-arrested-connection-threatening-employee-rifle-when-the,FALSE,8,,,Brandishing/flourishing/open carry/lost/found,,,,,,
+106163,2/12/2014,Michigan,Flushing,5000 block of Deland Rd,0,0,http://www.gunviolencearchive.org/incident/106163,http://www.mlive.com/news/flint/index.ssf/2014/02/barricaded_gunman_arrested_in.html#incart_river_default,FALSE,5,0::Unknown,0::Unknown,Brandishing/flourishing/open carry/lost/found,,,,,,
+107214,2/12/2014,Michigan,Springfield Township,10000 block of Clark Road ,0,0,http://www.gunviolencearchive.org/incident/107214,http://www.theoaklandpress.com/general-news/20140214/victims-tied-up-handcuffed-in-springfield-township-home-invasion,FALSE,8,,,Drug involvement||Home Invasion||Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+111274,2/13/2014,Michigan,Detroit,Detroit Metro Airport,0,0,http://www.gunviolencearchive.org/incident/111274,http://blog.tsa.gov/2014_02_14_archive.html,FALSE,13,,,TSA Action,,,,,,
+106881,2/13/2014,Michigan,Detroit,5000 block of Newport,1,0,http://www.gunviolencearchive.org/incident/106881,http://www.detroitnews.com/article/20140213/METRO01/302130140/1361/rss,FALSE,14,,,"Shot - Dead (murder, accidental, suicide)",,,,,,
+107610,2/14/2014,Michigan,Waterford,5121 Highland Rd,0,0,http://www.gunviolencearchive.org/incident/107610,http://www.theoaklandpress.com/general-news/20140220/suspect-in-waterford-twp-armed-robbery-charged-could-be-connected-to-other-,FALSE,11,,,Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+106779,2/14/2014,Michigan,Flint,Dort Highway and Atherton Road,0,0,http://www.gunviolencearchive.org/incident/106779,http://www.mlive.com/news/flint/index.ssf/2014/02/back_window_of_vehicle_with_5-.html#incart_river,FALSE,5,,,"Shots Fired - No Injuries||Drive-by (car to street, car to car)||Brandishing/flourishing/open carry/lost/found",,,,,,
+106790,2/14/2014,Michigan,Flint,Martin Luther King Avenue and Wood St,0,0,http://www.gunviolencearchive.org/incident/106790,http://www.mlive.com/news/flint/index.ssf/2014/02/two_men_arrested_after_leading.html#incart_river_default,FALSE,5,,,Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found,,,,,,
+106782,2/14/2014,Michigan,Flint,Flint party store,0,1,http://www.gunviolencearchive.org/incident/106782,http://www.mlive.com/news/flint/index.ssf/2014/02/offbeat_fight_over_potato_chip.html#incart_river_default,FALSE,5,,,Shot - Wounded/Injured,,,,,,
+107204,2/15/2014,Michigan,Grand Rapids,1700 block of Union Ave. SE,0,0,http://www.gunviolencearchive.org/incident/107204,http://www.mlive.com/news/grand-rapids/index.ssf/2014/02/grand_rapids_police_respond_to_10.html#incart_river_default,FALSE,3,,,"Shots fired, no action (reported, no evidence found)",,,,,,
+107540,2/15/2014,Michigan,Inkster,Michigan Avenue and John Daly Street,0,1,http://www.gunviolencearchive.org/incident/107540,http://www.detroitnews.com/article/20140216/METRO01/302160035/1361/rss,FALSE,13,,,Shot - Wounded/Injured,,,,,,
+108010,2/16/2014,Michigan,Flint,1000 block of Broadway Boulevard,0,0,http://www.gunviolencearchive.org/incident/108010,http://www.mlive.com/news/flint/index.ssf/2014/02/womans_loaded_handgun_stolen_w.html#incart_river_default,FALSE,5,,,Gun(s) stolen from owner,,,,,,
+107618,2/16/2014,Michigan,Auburn Hills,Phillips and Shimmons Roads,0,1,http://www.gunviolencearchive.org/incident/107618,http://www.theoaklandpress.com/general-news/20140221/oakland-university-student-charged-in-auburn-hills-shooting-says-reports-on,FALSE,11,,,Shot - Wounded/Injured,,,,,,
+107362,2/16/2014,Michigan,Saginaw,Federal Av,0,4,http://www.gunviolencearchive.org/incident/107362,http://www.mlive.com/news/saginaw/index.ssf/2014/02/quadruple_shooting_outside_sag.html,FALSE,5,,,Shot - Wounded/Injured||Bar/club incident - in or around establishment||Brandishing/flourishing/open carry/lost/found,,,,,,
+108008,2/16/2014,Michigan,Isabella County,Wise Township,0,0,http://www.gunviolencearchive.org/incident/108008,http://www.mlive.com/news/saginaw/index.ssf/2014/02/police_teen_accused_of_pointin.html#incart_river_default,FALSE,4,,,Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+111308,2/17/2014,Michigan,Grand Rapids,5500 44th St SE,0,0,http://www.gunviolencearchive.org/incident/111308,http://blog.tsa.gov/2014_02_21_archive.html,FALSE,3,0::Unknown,0::Unknown,TSA Action,,,,,,
+108018,2/17/2014,Michigan,Grand Rapids,28th Street and Madison Avenue SE ,0,0,http://www.gunviolencearchive.org/incident/108018,http://woodtv.com/2014/02/10/gun-fired-at-mcdonalds-after-wrong-orders/,FALSE,3,,,Shots Fired - No Injuries,,,,,,
+108527,2/17/2014,Michigan,Lansing,742 N Waverly Rd,0,0,http://www.gunviolencearchive.org/incident/108527,http://www.lansingstatejournal.com/article/20140219/NEWS01/302190053/Police-seek-tips-pizza-store-robbery,FALSE,8,0::Unknown,0::Unknown,Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+112987,2/17/2014,Michigan,Detroit,Woodrow Wilson ,0,0,http://www.gunviolencearchive.org/incident/112987,http://www.detroitnews.com/article/20140306/METRO01/303060100/Detroit-man-shoots-intruders-killing-one-latest-home-invasion,FALSE,13,,,Shots Fired - No Injuries||Home Invasion||Home Invasion - No death or injury||Brandishing/flourishing/open carry/lost/found||Defensive Use,,,,,,
+107984,2/18/2014,Michigan,Ann Arbor,1400 block of Oak Valley Dr,0,0,http://www.gunviolencearchive.org/incident/107984,http://www.mlive.com/news/ann-arbor/index.ssf/2014/02/man_charged_with_attempted_mur_1.html,FALSE,12,0::Unknown,0::Unknown,Shots Fired - No Injuries||Road rage||Brandishing/flourishing/open carry/lost/found,,,,,,
+109098,2/18/2014,Michigan,Pontiac,100 block of Carriage Circle,0,0,http://www.gunviolencearchive.org/incident/109098,http://www.theoaklandpress.com/general-news/20140221/deputies-pontiac-teen-robbed-on-his-way-to-drug-purchase,FALSE,14,,,Drug involvement||Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+108183,2/19/2014,Michigan,Detroit,"7400 block of Woodrow Wilson,",0,0,http://www.gunviolencearchive.org/incident/108183,http://www.detroitnews.com/article/20140219/METRO01/302190120/1361/Detroit-woman-opens-fire-when-3-teens-break-into-home,FALSE,13,,,"Home Invasion||Home Invasion - No death or injury||Armed robbery with injury/death and/or evidence of DGU found||Shots fired, no action (reported, no evidence found)||Brandishing/flourishing/open carry/lost/found",,,,,,
+108185,2/19/2014,Michigan,Novi,41400 Ten Mile Road,0,0,http://www.gunviolencearchive.org/incident/108185,http://www.theoaklandpress.com/general-news/20140219/novi-bank-robbed-by-man,FALSE,11,,,Armed robbery with injury/death and/or evidence of DGU found||Implied Weapon,,,,,,
+108310,2/19/2014,Michigan,Flint,1040 N. Saginaw Street,0,0,http://www.gunviolencearchive.org/incident/108310,http://www.abc12.com/story/24757527/two-boys-now-face-charges-for-allegedly-bringing-toy-gun-to-school,FALSE,5,,,"School Incident||Gun at school, no death/injury - elementary/secondary school",,,,,,
+109085,2/20/2014,Michigan,Westland,Melvin,1,0,http://www.gunviolencearchive.org/incident/109085,http://www.wxyz.com/news/region/wayne-county/76-year-old-man-arrested-in-murder-of-his-72-year-old-wife-in-westland,FALSE,13,,,"Shot - Dead (murder, accidental, suicide)||Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found",,,,,,
+110750,2/20/2014,Michigan,Oakland Charter Township,4800 block of Carrington Drive,0,0,http://www.gunviolencearchive.org/incident/110750,http://www.theoaklandpress.com/general-news/20140228/oakland-township-man-accused-of-shooting-at-son-who-told-mother-of-affair,FALSE,8,0::Unknown,0::Unknown,Shots Fired - No Injuries||Domestic Violence||Brandishing/flourishing/open carry/lost/found,,,,,,
+108496,2/20/2014,Michigan,Detroit,19000 block of Coventry,2,0,http://www.gunviolencearchive.org/incident/108496,http://www.wxyz.com/news/region/detroit/two-people-shot-at-gas-station-on-detroits-northeast-side,FALSE,14,,,"Shot - Dead (murder, accidental, suicide)||Brandishing/flourishing/open carry/lost/found",,,,,,
+119312,2/21/2014,Michigan,Eureka Township,,0,0,http://www.gunviolencearchive.org/incident/119312,http://www.mlive.com/news/grand-rapids/index.ssf/2014/03/neighbor_accused_of_fatally_sh.html,FALSE,3,,,Animal shot/killed,,,,,,
+109089,2/21/2014,Michigan,Grand Rapids,28th Street SE and Breton Road,0,1,http://www.gunviolencearchive.org/incident/109089,http://www.mlive.com/news/grand-rapids/index.ssf/2014/02/two_men_injured_in_overnight_s.html#incart_river_default,FALSE,3,,,Shot - Wounded/Injured,,,,,,
+109091,2/21/2014,Michigan,Lansing,East Michigan Avenue and Cedar Street,0,0,http://www.gunviolencearchive.org/incident/109091,http://www.lansingstatejournal.com/article/20140221/NEWS01/302210027/Two-Lansing-men-charged-after-driving-intoxicated-firing-gu,FALSE,8,,,"Shots fired, no action (reported, no evidence found)||Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found",,,,,,
+109087,2/21/2014,Michigan,Grand Rapids,900 block of Bates Street SE,0,1,http://www.gunviolencearchive.org/incident/109087,http://www.mlive.com/news/grand-rapids/index.ssf/2014/02/two_men_injured_in_overnight_s.html#incart_river_default,FALSE,3,,,Shot - Wounded/Injured,,,,,,
+109082,2/21/2014,Michigan,Clinton Township,24276 Hall Rd,0,0,http://www.gunviolencearchive.org/incident/109082,http://www.macombdaily.com/article/MD/20140224/NEWS/140229796,FALSE,9,0::Unknown,0::Unknown,Non-Shooting Incident||Armed robbery with injury/death and/or evidence of DGU found||Implied Weapon,,,,,,
+116846,2/22/2014,Michigan,Flint,1700 block of North Lynch St,0,0,http://www.gunviolencearchive.org/incident/116846,http://www.abc12.com/story/25032596/flint-police-say-anonymous-tip-led-to-arrest-of-man-suspected-in-shooting,FALSE,5,,,Shots Fired - No Injuries||Brandishing/flourishing/open carry/lost/found,,,,,,
+110401,2/22/2014,Michigan,Inkster,3400 block of Moore Street,1,0,http://www.gunviolencearchive.org/incident/110401,http://www.freep.com/article/20140226/NEWS02/302260115,FALSE,13,,,"Shot - Dead (murder, accidental, suicide)||Domestic Violence",,,,,,
+109365,2/22/2014,Michigan,Detroit,5000 block of Toledo,1,1,http://www.gunviolencearchive.org/incident/109365,http://www.wxyz.com/news/region/wayne-county/3-different-homeowners-use-guns-to-defend-themselves-against-intruders-this-week,FALSE,14,,,"Shot - Dead (murder, accidental, suicide)||Home Invasion||Home Invasion - Resident killed||Home Invasion - subject/suspect/perpetrator killed||Home Invasion - subject/suspect/perpetrator injured||Defensive Use",,,,,,
+112975,2/22/2014,Michigan,Detroit,Abington,1,0,http://www.gunviolencearchive.org/incident/112975,http://www.wxyz.com/news/region/wayne-county/3-different-homeowners-use-guns-to-defend-themselves-against-intruders-this-week,FALSE,13,,,"Shot - Dead (murder, accidental, suicide)||Home Invasion||Home Invasion - subject/suspect/perpetrator killed||Defensive Use",,,,,,
+112489,2/23/2014,Michigan,Osceola County,,0,0,http://www.gunviolencearchive.org/incident/112489,http://www.mlive.com/news/grand-rapids/index.ssf/2014/03/four_arrested_after_masked_men.html#incart_river_default,FALSE,4,,,Home Invasion||Home Invasion - Resident injured||Armed robbery with injury/death and/or evidence of DGU found||Pistol-whipping||Brandishing/flourishing/open carry/lost/found,,,,,,
+118337,2/23/2014,Michigan,Clarkston,4400 block of Pinedale Ave,1,0,http://www.gunviolencearchive.org/incident/118337,http://detroit.cbslocal.com/2014/02/24/man-shoots-himself-in-the-head-while-demonstrating-gun-safety/,FALSE,8,0::Unknown,0::Unknown,"Shot - Dead (murder, accidental, suicide)||Accidental Shooting||Accidental Shooting - Death||Accidental/Negligent Discharge||Self-Inflicted (not suicide or suicide attempt - NO PERP)",,,,,,
+110056,2/23/2014,Michigan,Detroit,14000 block of Hampshire Street ,1,0,http://www.gunviolencearchive.org/incident/110056,http://www.freep.com/article/20140224/NEWS01/302240084/Detroit-fatal-shooting,FALSE,14,,,"Shot - Dead (murder, accidental, suicide)",,,,,,
+109361,2/23/2014,Michigan,Flint,Mr. Alan's parking lot on Clio Road,0,1,http://www.gunviolencearchive.org/incident/109361,http://www.abc12.com/story/24797016/police-looking-for-shooting,FALSE,5,,,Shot - Wounded/Injured||Brandishing/flourishing/open carry/lost/found,,,,,,
+109358,2/23/2014,Michigan,Pontiac,600 block of Palmer,0,1,http://www.gunviolencearchive.org/incident/109358,http://www.theoaklandpress.com/general-news/20140221/pontiac-man-shot-in-back-after-unknown-suspect-shoots-at-his-home,FALSE,14,,,Shot - Wounded/Injured,,,,,,
+111743,2/24/2014,Michigan,Detroit,Detroit Metro Airport,0,0,http://www.gunviolencearchive.org/incident/111743,http://blog.tsa.gov/2014_02_28_archive.html,FALSE,13,,,TSA Action,,,,,,
+110092,2/25/2014,Michigan,Ecorse,,1,0,http://www.gunviolencearchive.org/incident/110092,http://www.freep.com/article/20140225/NEWS02/302250138/Ecorse-standoff-man-shot-mobile-home,FALSE,13,,,"Shots Fired - No Injuries||Officer Involved Incident||Officer Involved Shooting - subject/suspect/perpetrator killed||Shots fired, no action (reported, no evidence found)||Brandishing/flourishing/open carry/lost/found",,,,,,
+223784,2/26/2014,Michigan,Flint,100 block of E. Eldridge Ave,0,1,http://www.gunviolencearchive.org/incident/223784,http://www.mlive.com/news/flint/index.ssf/2014/02/34-year-old_flint_shooting_vic.html,FALSE,5,,,Shot - Wounded/Injured,,,,,,
+110563,2/26/2014,Michigan,Detroit,16800 Schaefer / CVS,1,0,http://www.gunviolencearchive.org/incident/110563,http://www.mlive.com/news/detroit/index.ssf/2014/02/video_reveals_disturbing_scene.html#incart_article_small,FALSE,14,,,"Shot - Dead (murder, accidental, suicide)||Car-jacking||Possession (gun(s) found during commission of other crimes)||Brandishing/flourishing/open carry/lost/found",,,,,,
+110558,2/26/2014,Michigan,Pontiac," 44400 Woodward Avenue, ",0,0,http://www.gunviolencearchive.org/incident/110558,http://www.theoaklandpress.com/general-news/20140307/authorities-arrest-bank-robbery-suspect-in-pontiac,FALSE,14,,,Armed robbery with injury/death and/or evidence of DGU found||Implied Weapon,,,,,,
+188852,2/27/2014,Michigan,Dearborn Heights,4401 S. Telegraph,0,0,http://www.gunviolencearchive.org/incident/188852,http://www.pressandguide.com/articles/2014/04/17/business/doc5350483c3e5e5872919024.txt,FALSE,13,,,Armed robbery with injury/death and/or evidence of DGU found||Institution/Group/Business,,,,,,
+110729,2/27/2014,Michigan,Detroit,15000 block of Rossini,2,0,http://www.gunviolencearchive.org/incident/110729,http://www.detroitnews.com/article/20140228/METRO01/302280068/Detroit-police-Brother-rushes-Detroit-home-after-reading-Facebook-,FALSE,14,,,"Shot - Dead (murder, accidental, suicide)||Suicide^||Murder/Suicide||Domestic Violence",,,,,,
+110565,2/27/2014,Michigan,Lambertville,3558 Sterns Road,0,0,http://www.gunviolencearchive.org/incident/110565,http://www.toledoblade.com/Courts/2014/03/01/Suspect-arraigned-on-robbery-charge.html,FALSE,7,0::Unknown,0::Unknown,Non-Shooting Incident||Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+112705,2/27/2014,Michigan,Southfield,23000 block of Greenfield Road,0,0,http://www.gunviolencearchive.org/incident/112705,http://www.theoaklandpress.com/general-news/20140307/police-asking-for-publics-help-finding-southfield-armed-robbery-suspect-who,FALSE,14,0::Unknown,0::Unknown,Non-Shooting Incident||Armed robbery with injury/death and/or evidence of DGU found||Brandishing/flourishing/open carry/lost/found,,,,,,
+188843,2/27/2014,Michigan,Taylor,20252 Ecorse Road,0,0,http://www.gunviolencearchive.org/incident/188843,http://www.pressandguide.com/articles/2014/04/17/business/doc5350483c3e5e5872919024.txt,FALSE,12,,,Armed robbery with injury/death and/or evidence of DGU found||Institution/Group/Business,,,,,,
+111112,2/28/2014,Michigan,Detroit,22000 block of Grove St,1,0,http://www.gunviolencearchive.org/incident/111112,http://www.freep.com/article/20140228/NEWS01/302280140/Woman-shoots-home-invasion,FALSE,13,,,"Shot - Dead (murder, accidental, suicide)||Brandishing/flourishing/open carry/lost/found||Defensive Use",,,,,,
+110753,2/28/2014,Michigan,Hazel Park,24211 Hughes,0,0,http://www.gunviolencearchive.org/incident/110753,http://www.theoaklandpress.com/general-news/20140228/police-drunken-man-pulls-gun-in-spat-over-seat-at-hazel-park-bowling-alley,FALSE,9,0::Unknown,0::Handgun,Brandishing/flourishing/open carry/lost/found,,,,,,
+110747,2/28/2014,Michigan,Grand Rapids,1800 Tremont Blvd. NW.,0,0,http://www.gunviolencearchive.org/incident/110747,http://www.mlive.com/news/grand-rapids/index.ssf/2014/02/union_high_school_students_gun.html#incart_river_default,FALSE,3,,,"School Incident||Gun at school, no death/injury - elementary/secondary school",,,,,,
+110731,2/28/2014,Michigan,Taylor,Wick Road,0,0,http://www.gunviolencearchive.org/incident/110731,http://www.wxyz.com/news/man-in-custody-after-taylor-standoff,FALSE,12,,,Brandishing/flourishing/open carry/lost/found,,,,,,
+111109,3/1/2014,Michigan,Detroit,7800 Gratiot Av.,0,4,http://www.gunviolencearchive.org/incident/111109,http://www.foxnews.com/us/2014/03/03/man-charged-with-attempted-murder-in-last-week-shooting-at-detroit-tax-business/,FALSE,13,,,"Shot - Wounded/Injured|Mass Shooting (4+ victims injured or killed excluding the subject/suspect/perpetrator, one location)|Brandishing/flourishing/open carry/lost/found",,,,,,
+111387,3/1/2014,Michigan,Flint,1000 block of Center,0,0,http://www.gunviolencearchive.org/incident/111387,http://www.mlive.com/news/flint/index.ssf/2014/03/six_guns_3000_in_cash_among_it.html#incart_river_default,FALSE,5,,,Gun(s) stolen from owner,,,,,,
+112482,3/1/2014,Michigan,Clawson,400 block of Phillips,1,0,http://www.gunviolencearchive.org/incident/112482,http://www.theoaklandpress.com/general-news/20140306/clawson-man-was-kind-neighbor-churchgoer-before-fatal-shootout-with-police,FALSE,11,,,Officer Involved Incident|Officer Involved Shooting - subject/suspect/perpetrator killed|Brandishing/flourishing/open carry/lost/found|Defensive Use,,,,,,
+111385,3/2/2014,Michigan,Flint,Eighth Av,0,0,http://www.gunviolencearchive.org/incident/111385,http://www.mlive.com/news/flint/index.ssf/2014/03/three_women_escape_injury_afte.html#incart_river_default,FALSE,5,,,Shots Fired - No Injuries|Armed robbery with injury/death and/or evidence of DGU found|Brandishing/flourishing/open carry/lost/found,,,,,,
+112213,3/2/2014,Michigan,Erie,6444 Telegraph Rd,0,0,http://www.gunviolencearchive.org/incident/112213,http://www.toledoblade.com/Police-Fire/2014/03/03/Police-seek-information-in-Bedford-Inn-robbery.html,FALSE,7,0:Unknown,0:Unknown,Non-Shooting Incident|Armed robbery with injury/death and/or evidence of DGU found|Implied Weapon,,,,,,
+111574,3/3/2014,Michigan,Flint,700 West Bundy Av,1,0,http://www.gunviolencearchive.org/incident/111574,http://www.mlive.com/news/flint/index.ssf/2014/03/man_killed_in_early_morning_dr.html#incart_river_default,FALSE,5,,,"Shot - Dead (murder, accidental, suicide)|Drive-by (car to street, car to car)|Possession (gun(s) found during commission of other crimes)",,,,,,
+112702,3/3/2014,Michigan,Pontiac,41 N. Saginaw,0,0,http://www.gunviolencearchive.org/incident/112702,http://www.theoaklandpress.com/general-news/20140307/authorities-arrest-bank-robbery-suspect-in-pontiac,FALSE,14,,,Armed robbery with injury/death and/or evidence of DGU found|Brandishing/flourishing/open carry/lost/found,,,,,,
+111908,3/4/2014,Michigan,Lansing,1715 W. Mount Hope Av,0,0,http://www.gunviolencearchive.org/incident/111908,http://www.lansingstatejournal.com/article/20140316/NEWS01/303160056/Lansing-man-charged-PNC-Bank-robbery,FALSE,8,,,Armed robbery with injury/death and/or evidence of DGU found|Implied Weapon,,,,,,
+112238,3/4/2014,Michigan,Royal Oak,901 E. 11 Mile Road,0,0,http://www.gunviolencearchive.org/incident/112238,http://www.wxyz.com/news/armed-suspects-rob-wilsons-market-in-royal-oak,FALSE,9,,,Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+181572,3/4/2014,Michigan,Clawson,400 block of Phillips,1,0,http://www.gunviolencearchive.org/incident/181572,http://www.macombdaily.com/general-news/20140305/barricaded-gunman-killed-in-shoot-out-with-clawson-police,FALSE,11,,,"Shot - Dead (murder, accidental, suicide)|Officer Involved Incident|Officer Involved Shooting - subject/suspect/perpetrator killed|Brandishing/flourishing/open carry/lost/found|Defensive Use",,,,,,
+112956,3/4/2014,Michigan,Dearborn Heights,27150 Cherry Hill,0,0,http://www.gunviolencearchive.org/incident/112956,http://www.pressandguide.com/articles/2014/03/08/news/doc5319bf8ba8cf6587580346.txt,FALSE,13,,,Armed robbery with injury/death and/or evidence of DGU found|Brandishing/flourishing/open carry/lost/found,,,,,,
+188858,3/5/2014,Michigan,Taylor,20202 Eureka Road,0,0,http://www.gunviolencearchive.org/incident/188858,http://www.pressandguide.com/articles/2014/04/17/business/doc5350483c3e5e5872919024.txt,FALSE,12,,,Armed robbery with injury/death and/or evidence of DGU found|Institution/Group/Business,,,,,,
+115074,3/5/2014,Michigan,Lansing,800 block of Riverview Ave,0,0,http://www.gunviolencearchive.org/incident/115074,http://www.lansingstatejournal.com/article/20140314/NEWS01/303140050/Lansing-man-charged-shooting-incidents,FALSE,8,,,Shots Fired - No Injuries|Possession (gun(s) found during commission of other crimes)|Brandishing/flourishing/open carry/lost/found,,,,,,
+123102,3/5/2014,Michigan,Flint,Sloan Street,0,0,http://www.gunviolencearchive.org/incident/123102,http://www.mlive.com/news/flint/index.ssf/2015/11/feds_want_max_sentence_for_man.html#incart_river_home,FALSE,5,0:Stolen|1:Stolen,0:Handgun|1:Handgun,Non-Shooting Incident|ATF/LE Confiscation/Raid/Arrest|Possession (gun(s) found during commission of other crimes)|Possession of gun by felon or prohibited person|Gun(s) stolen from owner|Stolen/Illegally owned gun{s} recovered during arrest/warrant,,,,,,
+112246,3/5/2014,Michigan,Flint,1910 W. Pierson Road,1,0,http://www.gunviolencearchive.org/incident/112246,http://www.mlive.com/news/flint/index.ssf/2016/10/man_wanted_for_slaying_outside.html#incart_river_home,FALSE,,0:Unknown,0:Unknown,"Shot - Dead (murder, accidental, suicide)|Armed robbery with injury/death and/or evidence of DGU found|Possession (gun(s) found during commission of other crimes)",,,,,,
+112497,3/6/2014,Michigan,Detroit,Penrod Street and Joy Road,1,0,http://www.gunviolencearchive.org/incident/112497,http://wordondastreet.com/detroit-teen-home-intruder-shot-killed-trying-break-mans-home/,FALSE,13,0:Unknown,0:Unknown,"Shot - Dead (murder, accidental, suicide)|Home Invasion|Home Invasion - subject/suspect/perpetrator killed|Defensive Use|Defensive Use - Crime occurs, victim shoots subject/suspect/perpetrator|Defensive Use - Stand Your Ground/Castle Doctrine established",,,,,,
+112935,3/6/2014,Michigan,Detroit,2000 block of Lansing,1,2,http://www.gunviolencearchive.org/incident/112935,http://www.detroitnews.com/article/20140307/METRO01/303070091/0/update/1-dead-2-hurt-triple-shooting-southwest-Detroit,FALSE,14,,,"Shot - Wounded/Injured|Shot - Dead (murder, accidental, suicide)",,,,,,
+112491,3/6/2014,Michigan,Bay City,Columbus Ave,0,0,http://www.gunviolencearchive.org/incident/112491,http://www.theoaklandpress.com/general-news/20140307/authorities-arrest-bank-robbery-suspect-in-pontiac,FALSE,5,,,Armed robbery with injury/death and/or evidence of DGU found|Brandishing/flourishing/open carry/lost/found,,,,,,
+113363,3/7/2014,Michigan,Pontiac,300 block of Raeburn,0,1,http://www.gunviolencearchive.org/incident/113363,http://www.detroitnews.com/article/20140308/METRO02/303080044/0/METRO/Fight-outside-Pontiac-motorcycle-club-leaves-one-man-wound,FALSE,14,,,Shot - Wounded/Injured|Brandishing/flourishing/open carry/lost/found,,,,,,
+115066,3/7/2014,Michigan,Lansing,800 block of Riverview Ave,0,0,http://www.gunviolencearchive.org/incident/115066,http://www.lansingstatejournal.com/article/20140314/NEWS01/303140050/Lansing-man-charged-shooting-incidents,FALSE,8,,,Shots Fired - No Injuries|Possession (gun(s) found during commission of other crimes)|Brandishing/flourishing/open carry/lost/found,,,,,,
+115871,3/7/2014,Michigan,Dearborn,Snow St,0,0,http://www.gunviolencearchive.org/incident/115871,http://www.detroitnews.com/article/20140317/METRO01/303170080/1361/rss,FALSE,12,,,Gun(s) stolen from owner,,,,,,
+112838,3/7/2014,Michigan,Lansing,Miller and Kaynorth,0,1,http://www.gunviolencearchive.org/incident/112838,http://www.lansingstatejournal.com/article/20140309/NEWS01/303090066/Three-charged-connection-Friday-shooting-sent-one-hospital,FALSE,8,,,Shot - Wounded/Injured|Possession (gun(s) found during commission of other crimes)|Brandishing/flourishing/open carry/lost/found,,,,,,
+113387,3/8/2014,Michigan,Flint,Dort Highway and Davison Road,0,0,http://www.gunviolencearchive.org/incident/113387,http://www.abc12.com/story/24923556/walgreens-armed-robber-leads-police-on-chase-saturday,FALSE,5,,,Armed robbery with injury/death and/or evidence of DGU found|Brandishing/flourishing/open carry/lost/found,,,,,,
+134677,3/9/2014,Michigan,Eastpointe,23000 block of Normandy,0,1,http://www.gunviolencearchive.org/incident/134677,http://www.macombdaily.com/general-news/20140309/teenager-shot-in-the-stomach-in-eastpointe-home,FALSE,9,,,Shot - Wounded/Injured|Accidental Shooting|Accidental Shooting - Injury|Accidental/Negligent Discharge,,,,,,
+113359,3/10/2014,Michigan,Detroit,18000 block of Westphalia St.,1,0,http://www.gunviolencearchive.org/incident/113359,http://www.detroitnews.com/article/20140310/METRO01/303100049/Man-fatally-shot-by-off-duty-Border-Patrol-agent-after-card-game-D,FALSE,14,,,Defensive Use,,,,,,
+113402,3/10/2014,Michigan,Pontiac,Fourth St.,0,0,http://www.gunviolencearchive.org/incident/113402,http://www.theoaklandpress.com/general-news/20140310/unknown-suspect-shoots-into-pontiac-familys-home,FALSE,14,,,Shots Fired - No Injuries|Brandishing/flourishing/open carry/lost/found,,,,,,
+134694,3/11/2014,Michigan,Farmington Hills,14 Mile,0,1,http://www.gunviolencearchive.org/incident/134694,http://detroit.cbslocal.com/2014/03/11/police-surround-apartment-complex-in-farmington-hills/,FALSE,14,,,Shot - Wounded/Injured|Accidental Shooting|Accidental Shooting - Injury|Accidental/Negligent Discharge,,,,,,
+113807,3/11/2014,Michigan,Fraser,,0,0,http://www.gunviolencearchive.org/incident/113807,http://www.freep.com/article/20140311/NEWS04/303110144/Fraser-body-bag,FALSE,9,,,Pistol-whipping|Brandishing/flourishing/open carry/lost/found,,,,,,
+113822,3/11/2014,Michigan,Detroit,Normandy Street near Nine Mile Road,0,0,http://www.gunviolencearchive.org/incident/113822,http://www.theoaklandpress.com/general-news/20140311/eastpointe-man-faces-charges-in-accidental-shooting,FALSE,14,,,Shot - Wounded/Injured|Accidental Shooting|Accidental/Negligent Discharge|Brandishing/flourishing/open carry/lost/found,,,,,,
+114066,3/11/2014,Michigan,Grand Rapids,1500 block of Langley St. SE,0,0,http://www.gunviolencearchive.org/incident/114066,http://www.mlive.com/news/grand-rapids/index.ssf/2014/03/victim_dodges_bullets_suffers.html,FALSE,3,,,Shots Fired - No Injuries,,,,,,
+113804,3/11/2014,Michigan,Farmington (Farmington Hills),31200 Hunters Drive,0,1,http://www.gunviolencearchive.org/incident/113804,http://www.wxyz.com/news/region/oakland-county/some-bloomfield-hills-schools-lock-down-after-nearby-apartment-complex-shooting,FALSE,14,0:Unknown,0:Unknown,Shot - Wounded/Injured|Accidental Shooting|Accidental/Negligent Discharge,,,,,,
+114854,3/11/2014,Michigan,Flint,1000 block of Arlington Ave.,0,0,http://www.gunviolencearchive.org/incident/114854,http://www.mlive.com/news/flint/index.ssf/2014/03/flint_man_wakes_to_find_teen_p.html,FALSE,5,,,Brandishing/flourishing/open carry/lost/found,,,,,,
+115128,3/12/2014,Michigan,Detroit,17800 block of Van Dyke,0,1,http://www.gunviolencearchive.org/incident/115128,http://www.detroitnews.com/article/20140314/METRO01/303140110/0/METRO/Detroit-police-officer-investigated-after-shooting-20-year,FALSE,14,,,Officer Involved Incident,,,,,,
+114207,3/12/2014,Michigan,Frankenmuth,925 S. Main Street,0,0,http://www.gunviolencearchive.org/incident/114207,http://www.mlive.com/news/saginaw/index.ssf/2014/03/suspects_in_frankenmuth_funky.html,FALSE,4,,,Armed robbery with injury/death and/or evidence of DGU found|Possession (gun(s) found during commission of other crimes)|Brandishing/flourishing/open carry/lost/found,,,,,,
+114839,3/13/2014,Michigan,Richmond (Richmond Township),Weber Road,0,0,http://www.gunviolencearchive.org/incident/114839,http://www.theoaklandpress.com/general-news/20140314/man-shoots-neighbors-pit-bull,FALSE,10,0:Unknown,0:Unknown,Defensive Use|Animal shot/killed,,,,,,
+117603,3/13/2014,Michigan,Grand Rapids,5500 44th St SE,0,0,http://www.gunviolencearchive.org/incident/117603,http://blog.tsa.gov/2014_03_14_archive.html,FALSE,3,0:Unknown,0:Unknown,TSA Action,,,,,,
+114599,3/13/2014,Michigan,Battle Creek,Beckley Road and M-66.,0,1,http://www.gunviolencearchive.org/incident/114599,http://www.lansingstatejournal.com/article/20140312/NEWS01/303120041/Woman-shot-road-rage-incident-near-Kellogg-Community-Colleg,FALSE,3,,,Shot - Wounded/Injured|Brandishing/flourishing/open carry/lost/found|Road rage,,,,,,
+117605,3/13/2014,Michigan,Detroit,Detroit Metro Airport,0,0,http://www.gunviolencearchive.org/incident/117605,http://blog.tsa.gov/2014_03_14_archive.html,FALSE,13,,,TSA Action,,,,,,
+115081,3/14/2014,Michigan,Grand Rapids,Eastern Avenue and Bates Street SE,0,1,http://www.gunviolencearchive.org/incident/115081,http://www.mlive.com/news/grand-rapids/index.ssf/2014/03/man_shot_in_back_on_southeast.html#incart_river_default,FALSE,3,,,Shot - Wounded/Injured|Brandishing/flourishing/open carry/lost/found,,,,,,
+114746,3/14/2014,Michigan,Burr Oak,,0,0,http://www.gunviolencearchive.org/incident/114746,http://www.lansingstatejournal.com/viewart/20140314/NEWS01/303140008/Man-fatally-shot-along-rural-road-southwestern-Michigan,FALSE,6,0:Unknown,0:Unknown,Shot - Wounded/Injured|Domestic Violence,,,,,,
+168532,3/14/2014,Michigan,Saginaw,York St,0,0,http://www.gunviolencearchive.org/incident/168532,http://www.mlive.com/news/saginaw/index.ssf/2014/07/two_men_charged_in_march_armed.html,FALSE,5,,,Non-Shooting Incident|Armed robbery with injury/death and/or evidence of DGU found|Brandishing/flourishing/open carry/lost/found,,,,,,
+115062,3/15/2014,Michigan,Southfield,Telegraph Road and 10 Mile Road,0,0,http://www.gunviolencearchive.org/incident/115062,http://www.theoaklandpress.com/general-news/20140315/police-open-fire-at-suspected-bank-robbers-vehicle-as-he-tries-to-run-them-,FALSE,14,,,Officer Involved Incident|Defensive Use,,,,,,
+118285,3/15/2014,Michigan,Detroit,Detroit Metro Airport,0,0,http://www.gunviolencearchive.org/incident/118285,http://blog.tsa.gov/2014_03_21_archive.html,FALSE,13,,,TSA Action,,,,,,
+180327,3/15/2014,Michigan,Richmond Township,,0,1,http://www.gunviolencearchive.org/incident/180327,http://abc10up.com/family-argument-leaves-one-in-critical-condition-after-gun-accidentally-fires/,FALSE,10,,,Shot - Wounded/Injured|Accidental Shooting|Accidental Shooting - Injury,,,,,,
+115590,3/15/2014,Michigan,Flint,900 block of Clinton,0,0,http://www.gunviolencearchive.org/incident/115590,http://www.mlive.com/news/flint/index.ssf/2014/03/family_unharmed_after_bullet_s.html#incart_river_default,FALSE,5,,,Shots Fired - No Injuries,,,,,,
+180344,3/16/2014,Michigan,Hazel Park,,0,0,http://www.gunviolencearchive.org/incident/180344,http://www.macombdaily.com/general-news/20140319/police-hazel-park-felons-stray-bullet-misses-sleeping-seniors-head-by-an-inch,FALSE,9,,,Shots Fired - No Injuries|Accidental Shooting|Accidental/Negligent Discharge|Cleaning gun,,,,,,
+116623,3/16/2014,Michigan,Waterford,Williams Lake Road,0,0,http://www.gunviolencearchive.org/incident/116623,http://www.theoaklandpress.com/general-news/20140321/former-employee-of-waterford-party-store-charged-in-armed-robbery-at-same-b,FALSE,11,,,Shots Fired - No Injuries|Armed robbery with injury/death and/or evidence of DGU found,,,,,,
+116475,3/17/2014,Michigan,Milford,2380 S Milford Rd,0,0,http://www.gunviolencearchive.org/incident/116475,http://www.wxyz.com/news/bb-gun-found-in-backpack-on-school-bus,FALSE,11,0:Unknown,0:Unknown,,,,,,,
+115591,3/17/2014,Michigan,Lapeer,5508 Davison Rd,0,0,http://www.gunviolencearchive.org/incident/115591,http://thecountypress.mihomepaper.com/news/2014-03-16/Front_Page/BANK_ROBBER_NABBED.html,FALSE,10,0:Unknown,0:Unknown,Institution/Group/Business|Non-Shooting Incident|Armed robbery with injury/death and/or evidence of DGU found|Kidnapping/abductions/hostage|Possession (gun(s) found during commission of other crimes)|Brandishing/flourishing/open carry/lost/found,,,,,,
+116134,3/17/2014,Michigan,Croswell,100 block of Ward St,0,1,http://www.gunviolencearchive.org/incident/116134,http://www.thetimesherald.com/article/20140318/NEWS05/303180007/Croswell-boy-12-shot-hand,FALSE,10,,,Accidental Shooting|Accidental Shooting - Injury|Brandishing/flourishing/open carry/lost/found,,,,,,
+116156,3/18/2014,Michigan,Pontiac,N. Cass and Johnson.,0,1,http://www.gunviolencearchive.org/incident/116156,http://www.detroitnews.com/article/20140318/METRO02/303180082/Police-unravel-Pontiac-tale-sex-gunshots-drugs-dump-trucks,FALSE,14,,,Shot - Wounded/Injured|Drug involvement|Car-jacking,,,,,,
+116131,3/18/2014,Michigan,Flint,Van Slyke Road,1,0,http://www.gunviolencearchive.org/incident/116131,http://www.abc12.com/story/25008159/production-resumes-after-suicide-inside-flint-assembly-plant,FALSE,5,,,"Shot - Dead (murder, accidental, suicide)|Suicide^",,,,,,
+188867,3/19/2014,Michigan,Melvindale,4125 Oakwood,0,0,http://www.gunviolencearchive.org/incident/188867,http://www.pressandguide.com/articles/2014/04/17/business/doc5350483c3e5e5872919024.txt,FALSE,13,,,Armed robbery with injury/death and/or evidence of DGU found|Implied Weapon|Institution/Group/Business,,,,,,
+198778,3/19/2014,Michigan,Muskegon,1700 block of Elwood Street,0,1,http://www.gunviolencearchive.org/incident/198778,http://www.mlive.com/news/muskegon/index.ssf/2014/09/muskegon_man_18_halts_trial_by.html,FALSE,2,,,Armed robbery with injury/death and/or evidence of DGU found|Kidnapping/abductions/hostage|Car-jacking|Pistol-whipping,,,,,,
+118410,3/19/2014,Michigan,Warren,Toepfer Avenue,0,0,http://www.gunviolencearchive.org/incident/118410,http://www.theoaklandpress.com/general-news/20140325/posing-as-car-seller-man-robs-warren-woman,FALSE,9,,,Armed robbery with injury/death and/or evidence of DGU found|Possession (gun(s) found during commission of other crimes)|Brandishing/flourishing/open carry/lost/found,,,,,,
+188860,3/19/2014,Michigan,Lincoln Park,1262 Dix,0,0,http://www.gunviolencearchive.org/incident/188860,http://www.pressandguide.com/articles/2014/04/17/business/doc5350483c3e5e5872919024.txt,FALSE,12,,,Armed robbery with injury/death and/or evidence of DGU found|Implied Weapon|Institution/Group/Business,,,,,,
+118875,3/20/2014,Michigan,Ypsilanti Township,100 block of Ford Boulevard,0,0,http://www.gunviolencearchive.org/incident/118875,http://www.mlive.com/news/ann-arbor/index.ssf/2014/03/deputies_man_punches_friend_in.html,FALSE,12,,,Armed robbery with injury/death and/or evidence of DGU found|Possession (gun(s) found during commission of other crimes)|Brandishing/flourishing/open carry/lost/found|Gun(s) stolen from owner,,,,,,
+117047,3/20/2014,Michigan,Chesterfield Township,24 Mile and Gratiot,0,0,http://www.gunviolencearchive.org/incident/117047,http://www.wxyz.com/news/region/macomb-county/woman-arrested-after-allegedly-shooting-up-ex-boyfriends-vehicle-in-chesterfield-t,FALSE,10,,,"Shots fired, no action (reported, no evidence found)|Possession (gun(s) found during commission of other crimes)|Brandishing/flourishing/open carry/lost/found",,,,,,

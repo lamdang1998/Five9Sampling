@@ -75,7 +75,7 @@ def ClusterSampling(filename, targetAttr, no_sample_set):
 				sample = sample + v
 	return sample
 
-data1 = ClusterSampling("monks1.csv", "jacket_color", 2 )
-with open("output.csv", "w", newline="") as f:
+data1 = ClusterSampling("gun-violence.csv", "state", 2 )
+with open("output.csv", "w", encoding="utf8" , newline="") as f:
 	writer = csv.writer(f)
 	writer.writerows(data1)
