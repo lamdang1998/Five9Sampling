@@ -75,7 +75,24 @@ def ClusterSampling(filename, targetAttr, no_sample_set):
 				sample = sample + v
 	return sample
 
-data1 = ClusterSampling("gun-violence.csv", "state", 2 )
+#Systematic Sampling
+def SystemSampling(filename, no_sample):
+	data, label = load_data(filename)
+	nth_selected = round(len(data) / no_sample)
+	sample = []
+	i = 0
+	while len(sample) < no_sample:
+		if i == len(data):
+			i = len(data) - i
+			data = [x for x in data if x not in sample]
+		sample.append(data[i])
+		i = i + nth_selected
+	return sample 
+		
+
+
+
+data1 = SystemSampling("iris.csv", 100)
 with open("output.csv", "w", encoding="utf8" , newline="") as f:
 	writer = csv.writer(f)
 	writer.writerows(data1)
