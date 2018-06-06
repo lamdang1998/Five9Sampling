@@ -21,7 +21,7 @@ adj_mat = np.array( [ [0, 1, 0, 0, 0, 0, 1, 0, 1, 0],
                       [0, 1, 0, 0, 1, 0, 0, 1, 0, 0] ])
 
 def drawGraph(mat):
-    G = nx.Graph(adj_mat)
+    G = nx.Graph(mat)
 
     pos = nx.spring_layout(G)
 
