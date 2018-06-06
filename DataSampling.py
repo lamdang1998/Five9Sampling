@@ -82,17 +82,17 @@ def SystemSampling(filename, no_sample):
 	sample = []
 	i = 0
 	while len(sample) < no_sample:
+		if i == len(data):
+			i = len(data) - i
+			data = [x for x in data if x not in sample]
 		sample.append(data[i])
 		i = i + nth_selected
-		if i > len(data):
-			i = len(data) - i
-	return sample
+	return sample 
 		
 
 
 
 data1 = SystemSampling("iris.csv", 100)
-
 with open("output.csv", "w", encoding="utf8" , newline="") as f:
 	writer = csv.writer(f)
 	writer.writerows(data1)
