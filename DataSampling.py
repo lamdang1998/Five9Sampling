@@ -11,12 +11,12 @@ def load_data(filename):
 	return dataset, label
 
 
-def SRS(dataset, no_sample):
+def SRS(data, no_sample):
 	sample = []
 	for i in range (no_sample):
-		instance = random.choice(dataset)
+		instance = random.choice(data)
 		sample.append(instance)
-		dataset.remove(instance)
+		data.remove(instance)
 	return sample
 
 
@@ -34,8 +34,7 @@ def getTargetValue(dataset, TarIn):
 			continue
 	return targetVal
 
-def dictPopulation(filename, targetAttr):
-	data, label = load_data(filename)
+def dictPopulation(data, label, targetAttr):
 	tarIn = getTargetIndex(targetAttr, label)
 	tarVal = getTargetValue(data, tarIn)
 	data_dict = {}
@@ -46,8 +45,8 @@ def dictPopulation(filename, targetAttr):
 				data_dict[item].append(instance)
 	return data_dict
 
-def StratSampling(filename, targetAttr, no_sample):
-	data_dict = dictPopulation(filename, targetAttr)
+def StratSampling(data, label, targetAttr, no_sample):
+	data_dict = dictPopulation(data, label, targetAttr)
 	sample = []
 	for k, v in data_dict.items():
 		if len(v) <= no_sample:
@@ -57,8 +56,8 @@ def StratSampling(filename, targetAttr, no_sample):
 	return sample
 
 #Cluster Sampling
-def ClusterSampling(filename, targetAttr, no_sample_set):
-	data_dict = dictPopulation(filename, targetAttr)
+def ClusterSampling(data, label, targetAttr, no_sample_set):
+	data_dict = dictPopulation(data, label, targetAttr)
 	set_feature = []
 	selected = []
 	sample = []
@@ -76,8 +75,7 @@ def ClusterSampling(filename, targetAttr, no_sample_set):
 	return sample
 
 #Systematic Sampling
-def SystemSampling(filename, no_sample):
-	data, label = load_data(filename)
+def SystemSampling(data, label , no_sample):
 	nth_selected = round(len(data) / no_sample)
 	sample = []
 	i = 0
@@ -89,10 +87,51 @@ def SystemSampling(filename, no_sample):
 		i = i + nth_selected
 	return sample 
 		
+#Multistage Sampling
+def MultiStageSampling_util(data, label):
+	current = data
+	print("Select Sampling Method(a, b, c or d): ")
+	print("a/ Simple Random Sampling")
+	print("b/ Stratified Sampling")
+	print("c/ Cluster Sampling")
+	print("d/ Systematic Sampling")
+	sampling_type = input("Your way of sampling: ")
+	if sampling_type == "b" or sampling_type == "c":
+		print("Available label: " + str(label))
+		attr = input("Your target attribute: ")
+	if sampling_type == "c":
+		sample_set = input("Number of sample set: ")
+	else:
+		sample_size = input("Number of sample: ")
+	if sampling_type == "a":
+		current = SRS(current, int(sample_size))
+	elif sampling_type == "b":
+		current = StratSampling(current, label, attr, int(sample_size))
+	elif sampling_type == "c":
+		current = ClusterSampling(current, label, attr, int(sample_set))
+	elif sampling_type == "d":
+		current = StratSampling(current, label, int(sample_size))
+	print("Your current sample size after previous sampling is " + str(len(current)))
+	answer = input("Would you wish to minimize your sample size(Y/n): ")
+	if answer == "Y":
+		current = MultiStageSampling_util(current, label)
+	else:
+		return current
+
+def MultiStageSampling(filename):
+	data, label = load_data(filename)
+	result = MultiStageSampling_util(data, label)
+	return result
 
 
 
-data1 = SystemSampling("iris.csv", 100)
-with open("output.csv", "w", encoding="utf8" , newline="") as f:
-	writer = csv.writer(f)
-	writer.writerows(data1)
+# data,label = load_data("iris.csv")
+# data1 = SRS(data, 2)
+# print(data1)
+
+
+data1 = MultiStageSampling("iris.csv")
+print(data1)
+# with open("output.csv", "w", encoding="utf8" , newline="") as f:
+# 	writer = csv.writer(f)
+# 	writer.writerows(data1)
