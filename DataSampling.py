@@ -67,8 +67,10 @@ def ClusterSampling(data, label, targetAttr, no_sample_set):
 		for k,  v in data_dict.items():
 			sample = sample + v
 	else:
-		for i in range (no_sample_set):
-			selected.append(random.choice(set_feature))
+		for i in range(no_sample_set):
+			choice = random.choice(set_feature)
+			selected.append(choice)
+			set_feature.remove(choice)
 		for k,v in data_dict.items():
 			if k in selected:
 				sample = sample + v
@@ -90,6 +92,7 @@ def SystemSampling(data, label , no_sample):
 #Multistage Sampling
 def MultiStageSampling_util(data, label):
 	current = data
+	print("")
 	print("Select Sampling Method(a, b, c or d): ")
 	print("a/ Simple Random Sampling")
 	print("b/ Stratified Sampling")
@@ -110,13 +113,12 @@ def MultiStageSampling_util(data, label):
 	elif sampling_type == "c":
 		current = ClusterSampling(current, label, attr, int(sample_set))
 	elif sampling_type == "d":
-		current = StratSampling(current, label, int(sample_size))
+		current = SystemSampling(current, label, int(sample_size))
 	print("Your current sample size after previous sampling is " + str(len(current)))
 	answer = input("Would you wish to minimize your sample size(Y/n): ")
 	if answer == "Y":
 		current = MultiStageSampling_util(current, label)
-	else:
-		return current
+	return current
 
 def MultiStageSampling(filename):
 	data, label = load_data(filename)
@@ -126,12 +128,11 @@ def MultiStageSampling(filename):
 
 
 # data,label = load_data("iris.csv")
-# data1 = SRS(data, 2)
+# data1 = ClusterSampling(data, label, "class", 2)
 # print(data1)
 
 
 data1 = MultiStageSampling("iris.csv")
-print(data1)
-# with open("output.csv", "w", encoding="utf8" , newline="") as f:
-# 	writer = csv.writer(f)
-# 	writer.writerows(data1)
+with open("output.csv", "w", encoding="utf8" , newline="") as f:
+	writer = csv.writer(f)
+	writer.writerows(data1)
