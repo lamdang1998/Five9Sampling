@@ -1,6 +1,7 @@
 import networkx as nx
 import numpy as np
 import matplotlib.pylab as plt
+import random
 
 # adj_mat=np.array([[0,1,0,0,0,1],
 #                   [1,0,1,1,1,0],
@@ -71,5 +72,46 @@ def DFS(mat, node):
         wait.remove(no)
     return sample
 
+
+def bias_alpha(mat, ori, current, visited, p , q):
+	probability = []
+	neighbor_ori = neighbor(mat, ori)
+	neighbor_cur = neighbor(mat, current)
+	for item in neighbor_cur:
+		if item in visited:
+			probability.append(1.0/p)
+		elif item in neighbor_ori:
+			probability.append(1.0)
+		else:
+			probability.append(1.0/q)
+	return probability
+
+def random_walk(mat, node, p, q, no_sample):
+	ori_node = node
+	first_step = None
+	visited = [ori_node]
+	walk = [node]
+	probability = []
+#1st step from origin	
+	neigh = neighbor(mat, ori_node)
+	first_step = random.choice(neigh)
+	visited.append(first_step)
+	walk.append(first_step)
+#Other step	
+	while len(visited) < no_sample:
+		neigh = neighbor(mat, first_step)
+		probability = bias_alpha(mat, ori_node, first_step, visited, p, q)
+		max_index = probability.index(max(probability))
+		ori_node = first_step
+		first_step = neigh[max_index]
+		if first_step not in visited:
+			visited.append(first_step)
+		walk.append(first_step)
+	return walk
+
+
+
+
+
+print(random_walk(adj_mat, 3, 5, 4, 6))
 drawGraph(adj_mat)
-print(DFS(adj_mat, 3))
